@@ -1,0 +1,7754 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": ".\\models\\ggml-small.bin",
+		"language": "es",
+		"translate": false
+	},
+	"result": {
+		"language": "es"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,480"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7480
+			},
+			"text": " ¿Cuál es el propósito y la meta de mi existencia?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,480",
+				"to": "00:00:16,560"
+			},
+			"offsets": {
+				"from": 7480,
+				"to": 16560
+			},
+			"text": " Esa es la pregunta que cada uno de nosotros se tiene que hacer, ¿para qué estoy acá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,560",
+				"to": "00:00:24,600"
+			},
+			"offsets": {
+				"from": 16560,
+				"to": 24600
+			},
+			"text": " Entonces, me la hice hasta ahora, ¿cuál es mi propósito en esta vida?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,600",
+				"to": "00:00:28,000"
+			},
+			"offsets": {
+				"from": 24600,
+				"to": 28000
+			},
+			"text": " ¿Qué es lo que tengo que hacer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,000",
+				"to": "00:00:33,000"
+			},
+			"offsets": {
+				"from": 28000,
+				"to": 33000
+			},
+			"text": " ¿Por qué estoy acá y hacia dónde voy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,000",
+				"to": "00:00:43,000"
+			},
+			"offsets": {
+				"from": 33000,
+				"to": 43000
+			},
+			"text": " Una conciencia, o sea, tratar de reflexionar en todas estas cuestiones que uno por lo general no se toma ese tiempo."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,000",
+				"to": "00:00:47,480"
+			},
+			"offsets": {
+				"from": 43000,
+				"to": 47480
+			},
+			"text": " Una reflexión sincera, ¿qué es lo que estoy haciendo realmente?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,480",
+				"to": "00:00:56,200"
+			},
+			"offsets": {
+				"from": 47480,
+				"to": 56200
+			},
+			"text": " Y tratar de no buscar respuestas de cliché, o sea, darse respuestas de cliché."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,200",
+				"to": "00:01:00,200"
+			},
+			"offsets": {
+				"from": 56200,
+				"to": 60200
+			},
+			"text": " Interrogarse a sí mismo, ¿cuál es ese propósito?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,200",
+				"to": "00:01:04,200"
+			},
+			"offsets": {
+				"from": 60200,
+				"to": 64200
+			},
+			"text": " Entonces, todo tiene un fin, ¿sí? Es un fin."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,200",
+				"to": "00:01:12,200"
+			},
+			"offsets": {
+				"from": 64200,
+				"to": 72200
+			},
+			"text": " ¿Cuál es el fin que tenemos el alma de cada uno de nosotros, el sar de cada uno de nosotros?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,200",
+				"to": "00:01:21,200"
+			},
+			"offsets": {
+				"from": 72200,
+				"to": 81200
+			},
+			"text": " Si ponemos el fin biológico, bueno, el fin biológico nuestro fin es la supervivencia y la reproducción de la especie."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,200",
+				"to": "00:01:28,200"
+			},
+			"offsets": {
+				"from": 81200,
+				"to": 88200
+			},
+			"text": " Y ahí se termina todo y en base a eso se construye todo. ¿Cómo es el tema de la supervivencia?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,200",
+				"to": "00:01:39,200"
+			},
+			"offsets": {
+				"from": 88200,
+				"to": 99200
+			},
+			"text": " Bueno, en términos modernos buscamos adquirir medios para buscar aquellos elementos que consideramos que nos van a permitir la supervivencia."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,200",
+				"to": "00:01:55,200"
+			},
+			"offsets": {
+				"from": 99200,
+				"to": 115200
+			},
+			"text": " Es decir, trabajamos, dinero, conseguimos comida, conseguimos una casa, buscamos de alguna forma determinadas cuestiones, se van sumando a todas esas cuestiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,200",
+				"to": "00:02:03,200"
+			},
+			"offsets": {
+				"from": 115200,
+				"to": 123200
+			},
+			"text": " Buscamos tener más plata para tener más de eso, buscamos tener escalar más y tener poder para tener influencia sobre eso"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,200",
+				"to": "00:02:13,200"
+			},
+			"offsets": {
+				"from": 123200,
+				"to": 133200
+			},
+			"text": " y asegurarme de alguna forma una subsistencia absoluta y una preponderancia sobre el resto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,200",
+				"to": "00:02:21,200"
+			},
+			"offsets": {
+				"from": 133200,
+				"to": 141200
+			},
+			"text": " de tal forma que nadie, eso en términos se interponga en mi existido."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,200",
+				"to": "00:02:31,200"
+			},
+			"offsets": {
+				"from": 141200,
+				"to": 151200
+			},
+			"text": " Ahora está, o sea, el fin biológico es algo que debemos desecharnos, tenés una realidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,200",
+				"to": "00:02:44,200"
+			},
+			"offsets": {
+				"from": 151200,
+				"to": 164200
+			},
+			"text": " Tenemos un cuerpo que ese cuerpo debe ser protegido, se protege buscando un techo, alimentos y tenemos una función biológica."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,200",
+				"to": "00:02:53,200"
+			},
+			"offsets": {
+				"from": 164200,
+				"to": 173200
+			},
+			"text": " Ahora, ¿qué es lo que eso es todo? Básicamente podemos responder."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,200",
+				"to": "00:03:02,200"
+			},
+			"offsets": {
+				"from": 173200,
+				"to": 182200
+			},
+			"text": " Eso es todo con las complejidades que tiene el ser humano, el ser humano estudia, el ser humano desarrolla la ciencia, desarrolla esto, desarrolla estructuras y demás cuestiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,200",
+				"to": "00:03:15,200"
+			},
+			"offsets": {
+				"from": 182200,
+				"to": 195200
+			},
+			"text": " Pero si nos remitimos a lo básico, el animal también, el animal busca subsistir y que la especie continúe."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,200",
+				"to": "00:03:25,200"
+			},
+			"offsets": {
+				"from": 195200,
+				"to": 205200
+			},
+			"text": " Es algo ya casi innato y es común a toda la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,200",
+				"to": "00:03:37,200"
+			},
+			"offsets": {
+				"from": 205200,
+				"to": 217200
+			},
+			"text": " Ahora existe, hay algo que nos diferencia en esos términos, hay algo que nos diferencia en esos términos del resto de la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,200",
+				"to": "00:03:46,200"
+			},
+			"offsets": {
+				"from": 217200,
+				"to": 226200
+			},
+			"text": " Hay algo que nos diferencia en esos... ¿funciona esto si no me lo saco? ¿Funciona esta cosa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,200",
+				"to": "00:03:56,200"
+			},
+			"offsets": {
+				"from": 226200,
+				"to": 236200
+			},
+			"text": " Hay algo que nos diferencia del resto. ¿Por qué? ¿Cuál sería esa diferencia?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,200",
+				"to": "00:04:18,200"
+			},
+			"offsets": {
+				"from": 236200,
+				"to": 258200
+			},
+			"text": " Tenemos que preguntar cada uno de nosotros. Entonces hay un fin que excede de alguna forma que traciende, hay un fin que traciende al resto de la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,200",
+				"to": "00:04:29,200"
+			},
+			"offsets": {
+				"from": 258200,
+				"to": 269200
+			},
+			"text": " Hay un concepto consciente. Sabemos que el Corán nos dice que todo, cuanto hay en los cielos y en la tierra, lo recuerdan a él."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,200",
+				"to": "00:04:48,200"
+			},
+			"offsets": {
+				"from": 269200,
+				"to": 288200
+			},
+			"text": " Pero hay un fin que traciende todo eso. Es entender y es entenderse a sí mismo, entenderse a sí mismo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,200",
+				"to": "00:05:00,200"
+			},
+			"offsets": {
+				"from": 288200,
+				"to": 300200
+			},
+			"text": " Por un minuto, por unos segundos tratar de quién soy realmente, quién soy realmente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,200",
+				"to": "00:05:08,200"
+			},
+			"offsets": {
+				"from": 300200,
+				"to": 308200
+			},
+			"text": " Y buscar ese propósito que está por encima del resto de la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,200",
+				"to": "00:05:19,200"
+			},
+			"offsets": {
+				"from": 308200,
+				"to": 319200
+			},
+			"text": " Ese fin, ese fin, Allah lo menciona en el Sagrado Corán. Y Allah qué es lo que nos dice?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,200",
+				"to": "00:05:25,200"
+			},
+			"offsets": {
+				"from": 319200,
+				"to": 325200
+			},
+			"text": " \"Wa ma halakto jinz wa l'unz ila li abuduni\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,200",
+				"to": "00:05:32,200"
+			},
+			"offsets": {
+				"from": 325200,
+				"to": 332200
+			},
+			"text": " No cree ni a los genios ni a los hombres sino para que me adoren."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,200",
+				"to": "00:05:45,200"
+			},
+			"offsets": {
+				"from": 332200,
+				"to": 345200
+			},
+			"text": " Ahora bien, ¿qué significa esa adoración? ¿Qué significa adorar al creador? ¿Qué significa esa hibada, adoración?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,200",
+				"to": "00:05:53,200"
+			},
+			"offsets": {
+				"from": 345200,
+				"to": 353200
+			},
+			"text": " Es algo que está presente, lo trascendental está presente en toda la historia de la humanidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,200",
+				"to": "00:06:07,200"
+			},
+			"offsets": {
+				"from": 353200,
+				"to": 367200
+			},
+			"text": " En toda la historia de la humanidad vemos edificaciones y construcciones las cuales buscan lo trascendental,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,200",
+				"to": "00:06:11,200"
+			},
+			"offsets": {
+				"from": 367200,
+				"to": 371200
+			},
+			"text": " lo trascendental que le ponen distintos nombres."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,200",
+				"to": "00:06:17,200"
+			},
+			"offsets": {
+				"from": 371200,
+				"to": 377200
+			},
+			"text": " Pero hay algo superior al ser humano, el cual debe ser adorado."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,200",
+				"to": "00:06:24,200"
+			},
+			"offsets": {
+				"from": 377200,
+				"to": 384200
+			},
+			"text": " Entonces hay diferentes entendimientos, comprensiones de esa adoración."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,200",
+				"to": "00:06:33,200"
+			},
+			"offsets": {
+				"from": 384200,
+				"to": 393200
+			},
+			"text": " Entonces había muchos que adoraban al ser supremo, esos seres supremos que consideraron supremos a través de distintas cuestiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,200",
+				"to": "00:06:41,200"
+			},
+			"offsets": {
+				"from": 393200,
+				"to": 401200
+			},
+			"text": " Edificaban o construían monolitos, tallas, realizaban distintos rituales, sacrificios,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,200",
+				"to": "00:06:47,200"
+			},
+			"offsets": {
+				"from": 401200,
+				"to": 407200
+			},
+			"text": " para que con distintas funciones buscaban de alguna forma en determinadas creencias,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,200",
+				"to": "00:06:57,200"
+			},
+			"offsets": {
+				"from": 407200,
+				"to": 417200
+			},
+			"text": " buscar la complacencia o no, o salir de la ira, de cesar o de esos seres a través de los desacrificios,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,200",
+				"to": "00:07:04,200"
+			},
+			"offsets": {
+				"from": 417200,
+				"to": 424200
+			},
+			"text": " en muchos casos hasta sacrificios de seres humanos y demás."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,200",
+				"to": "00:07:18,200"
+			},
+			"offsets": {
+				"from": 424200,
+				"to": 438200
+			},
+			"text": " Hay otros que dicen, \"Bueno, somos establecen una relación de que el ser humano tiene un pacto"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,200",
+				"to": "00:07:20,200"
+			},
+			"offsets": {
+				"from": 438200,
+				"to": 440200
+			},
+			"text": " y tiene que cumplirlo y eso es todo\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,200",
+				"to": "00:07:28,200"
+			},
+			"offsets": {
+				"from": 440200,
+				"to": 448200
+			},
+			"text": " Hay otros que dicen, \"Bueno, ese pacto se renovó con la avenida de Jesús"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,200",
+				"to": "00:07:36,200"
+			},
+			"offsets": {
+				"from": 448200,
+				"to": 456200
+			},
+			"text": " y el único medio de salvación y ingreso en el paraíso es a través de Jesús"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,200",
+				"to": "00:07:43,200"
+			},
+			"offsets": {
+				"from": 456200,
+				"to": 463200
+			},
+			"text": " y establecen determinadas cuestiones y determinadas doctrinas y rituales\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,200",
+				"to": "00:07:58,200"
+			},
+			"offsets": {
+				"from": 463200,
+				"to": 478200
+			},
+			"text": " Resos, pero la pregunta es ¿por qué alguien, un ser supremo y trascendental, que no necesita absolutamente nada?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,200",
+				"to": "00:08:07,200"
+			},
+			"offsets": {
+				"from": 478200,
+				"to": 487200
+			},
+			"text": " Sabemos por nuestra doctrina teológica que Allah no es autosubsistente, que tiene vida enformaterna,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,200",
+				"to": "00:08:18,200"
+			},
+			"offsets": {
+				"from": 487200,
+				"to": 498200
+			},
+			"text": " que no depende de nadie ni de nada, no depende absolutamente de nadie ni de nada para existir."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,200",
+				"to": "00:08:26,200"
+			},
+			"offsets": {
+				"from": 498200,
+				"to": 506200
+			},
+			"text": " Entonces la pregunta es ¿por qué tenemos, qué es lo que nos quiere decir con adorarlo a Él?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,200",
+				"to": "00:08:34,200"
+			},
+			"offsets": {
+				"from": 506200,
+				"to": 514200
+			},
+			"text": " Esa es la pregunta ¿qué es? ¿Por cuál es el sentido de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,200",
+				"to": "00:08:38,200"
+			},
+			"offsets": {
+				"from": 514200,
+				"to": 518200
+			},
+			"text": " ¿Cuál es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,200",
+				"to": "00:08:40,200"
+			},
+			"offsets": {
+				"from": 518200,
+				"to": 520200
+			},
+			"text": " ¿Qué se busca con esa adoración?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,200",
+				"to": "00:08:43,200"
+			},
+			"offsets": {
+				"from": 520200,
+				"to": 523200
+			},
+			"text": " ¿Qué se busca con ese rezo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,200",
+				"to": "00:08:45,200"
+			},
+			"offsets": {
+				"from": 523200,
+				"to": 525200
+			},
+			"text": " ¿Qué se busca con ese ayuno?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,200",
+				"to": "00:08:50,200"
+			},
+			"offsets": {
+				"from": 525200,
+				"to": 530200
+			},
+			"text": " ¿Qué se busca con esa caridad, con la peregrinación y con tantas otras cuestiones?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,200",
+				"to": "00:08:56,200"
+			},
+			"offsets": {
+				"from": 530200,
+				"to": 536200
+			},
+			"text": " ¿Cuál es el objetivo, cuál es la meta que estamos buscando en todo esto?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:04,200",
+				"to": "00:09:11,200"
+			},
+			"offsets": {
+				"from": 544200,
+				"to": 551200
+			},
+			"text": " ¿Por qué tenemos que realizar todas estas cuestiones?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,200",
+				"to": "00:09:18,200"
+			},
+			"offsets": {
+				"from": 551200,
+				"to": 558200
+			},
+			"text": " ¿Por qué piensan que tenemos que realizarlo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:18,200",
+				"to": "00:09:43,200"
+			},
+			"offsets": {
+				"from": 558200,
+				"to": 583200
+			},
+			"text": " ¿Para complacerlo en la medida en que seguimos aquello que nos prescribió como medicina espiritual?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:43,200",
+				"to": "00:10:00,200"
+			},
+			"offsets": {
+				"from": 583200,
+				"to": 600200
+			},
+			"text": " Ok, ¿qué más?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,200",
+				"to": "00:10:12,200"
+			},
+			"offsets": {
+				"from": 600200,
+				"to": 612200
+			},
+			"text": " ¿Alguien más?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,200",
+				"to": "00:10:23,200"
+			},
+			"offsets": {
+				"from": 612200,
+				"to": 623200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,200",
+				"to": "00:10:26,200"
+			},
+			"offsets": {
+				"from": 623200,
+				"to": 626200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:26,200",
+				"to": "00:10:29,200"
+			},
+			"offsets": {
+				"from": 626200,
+				"to": 629200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,200",
+				"to": "00:10:32,200"
+			},
+			"offsets": {
+				"from": 629200,
+				"to": 632200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,200",
+				"to": "00:10:35,200"
+			},
+			"offsets": {
+				"from": 632200,
+				"to": 635200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:35,200",
+				"to": "00:10:46,200"
+			},
+			"offsets": {
+				"from": 635200,
+				"to": 646200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,200",
+				"to": "00:10:55,200"
+			},
+			"offsets": {
+				"from": 646200,
+				"to": 655200
+			},
+			"text": " ¿Algo más?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,200",
+				"to": "00:11:18,200"
+			},
+			"offsets": {
+				"from": 655200,
+				"to": 678200
+			},
+			"text": " ¿Qué es el sentido real de adorar a Dios?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,200",
+				"to": "00:11:24,200"
+			},
+			"offsets": {
+				"from": 678200,
+				"to": 684200
+			},
+			"text": " Para realizarnos el camino que el sabe que es beneficioso para nosotros,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:24,200",
+				"to": "00:11:43,200"
+			},
+			"offsets": {
+				"from": 684200,
+				"to": 703200
+			},
+			"text": " a medida que al hacerlo lo complacemos."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,200",
+				"to": "00:11:58,200"
+			},
+			"offsets": {
+				"from": 703200,
+				"to": 718200
+			},
+			"text": " Entonces, buscar la complacencia, conocerlo, pero ¿qué significa cada uno de esos aspectos?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,200",
+				"to": "00:12:14,200"
+			},
+			"offsets": {
+				"from": 718200,
+				"to": 734200
+			},
+			"text": " Que no somos auto, que dependemos de él y todas las cuestiones, sin lugar a dudas."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,200",
+				"to": "00:12:43,200"
+			},
+			"offsets": {
+				"from": 734200,
+				"to": 763200
+			},
+			"text": " Sucede eso, pero buscar qué es esa adoración y para qué es necesario si a él no lo necesita."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:43,200",
+				"to": "00:12:53,200"
+			},
+			"offsets": {
+				"from": 763200,
+				"to": 773200
+			},
+			"text": " Por supuesto se establece una diferencia entre el creador y la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:53,200",
+				"to": "00:12:55,200"
+			},
+			"offsets": {
+				"from": 773200,
+				"to": 775200
+			},
+			"text": " Está el creador y la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,200",
+				"to": "00:12:58,200"
+			},
+			"offsets": {
+				"from": 775200,
+				"to": 778200
+			},
+			"text": " ¿Cuál es el fin que nos da a nosotros?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:58,200",
+				"to": "00:13:01,200"
+			},
+			"offsets": {
+				"from": 778200,
+				"to": 781200
+			},
+			"text": " Nos dice que lo adoremos."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:01,200",
+				"to": "00:13:09,200"
+			},
+			"offsets": {
+				"from": 781200,
+				"to": 789200
+			},
+			"text": " Para eso nos da determinadas herramientas, nos da la oración."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:09,200",
+				"to": "00:13:18,200"
+			},
+			"offsets": {
+				"from": 789200,
+				"to": 798200
+			},
+			"text": " ¿La oración qué es básicamente en nuestro camino?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,200",
+				"to": "00:13:22,200"
+			},
+			"offsets": {
+				"from": 798200,
+				"to": 802200
+			},
+			"text": " Es un diálogo con el creador."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:22,200",
+				"to": "00:13:27,200"
+			},
+			"offsets": {
+				"from": 802200,
+				"to": 807200
+			},
+			"text": " Si nosotros tratamos de reflexionar en el sur alfátija,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:27,200",
+				"to": "00:13:34,200"
+			},
+			"offsets": {
+				"from": 807200,
+				"to": 814200
+			},
+			"text": " que es el sur a que repetimos en cada oración,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,200",
+				"to": "00:13:43,200"
+			},
+			"offsets": {
+				"from": 814200,
+				"to": 823200
+			},
+			"text": " primero lo exaltamos, lo nombramos a él."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:43,200",
+				"to": "00:13:46,200"
+			},
+			"offsets": {
+				"from": 823200,
+				"to": 826200
+			},
+			"text": " Y después qué hacemos? Pedimos."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:46,200",
+				"to": "00:13:49,200"
+			},
+			"offsets": {
+				"from": 826200,
+				"to": 829200
+			},
+			"text": " ¿Qué es lo que pedimos guía?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:49,200",
+				"to": "00:14:01,200"
+			},
+			"offsets": {
+				"from": 829200,
+				"to": 841200
+			},
+			"text": " Pedimos guía para que nos lleve a transitar esta vida por el camino, el mejor camino."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:01,200",
+				"to": "00:14:10,200"
+			},
+			"offsets": {
+				"from": 841200,
+				"to": 850200
+			},
+			"text": " Es decir, si hay un camino, hay un viaje."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,200",
+				"to": "00:14:20,200"
+			},
+			"offsets": {
+				"from": 850200,
+				"to": 860200
+			},
+			"text": " Si hay un viaje, tenemos un comienzo y una meta a donde llegar."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,200",
+				"to": "00:14:32,200"
+			},
+			"offsets": {
+				"from": 860200,
+				"to": 872200
+			},
+			"text": " Ese comienzo y esa meta sabemos que de él procedemos y a él hemos de retornar."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,200",
+				"to": "00:14:40,200"
+			},
+			"offsets": {
+				"from": 872200,
+				"to": 880200
+			},
+			"text": " Entonces hay una lección que cada uno de nosotros tenemos en esta vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,200",
+				"to": "00:14:50,200"
+			},
+			"offsets": {
+				"from": 880200,
+				"to": 890200
+			},
+			"text": " Una lección que aprender o unas lecciones que aprender para evolucionar"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:50,200",
+				"to": "00:14:55,200"
+			},
+			"offsets": {
+				"from": 890200,
+				"to": 895200
+			},
+			"text": " como seres humanos, reales, como seres de luz."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:55,200",
+				"to": "00:14:57,200"
+			},
+			"offsets": {
+				"from": 895200,
+				"to": 897200
+			},
+			"text": " ¿Por qué elijo el término luz?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:57,200",
+				"to": "00:15:01,200"
+			},
+			"offsets": {
+				"from": 897200,
+				"to": 901200
+			},
+			"text": " Porque el profeta aligi Salatu Asalam es lo que dijo."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:01,200",
+				"to": "00:15:10,200"
+			},
+			"offsets": {
+				"from": 901200,
+				"to": 910200
+			},
+			"text": " \"Señor mío, llena de luz mi corazón, mi cuerpo, etcétera, etcétera, etcétera\""
+		},
+		{
+			"timestamps": {
+				"from": "00:15:10,200",
+				"to": "00:15:13,200"
+			},
+			"offsets": {
+				"from": 910200,
+				"to": 913200
+			},
+			"text": " y termina \"haz de mí tu luz\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:13,200",
+				"to": "00:15:25,200"
+			},
+			"offsets": {
+				"from": 913200,
+				"to": 925200
+			},
+			"text": " Es decir, es transformarse, es esa transformación en un estado sutil del ser,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:25,200",
+				"to": "00:15:30,200"
+			},
+			"offsets": {
+				"from": 925200,
+				"to": 930200
+			},
+			"text": " en donde ilumina, en donde ve."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,200",
+				"to": "00:15:32,200"
+			},
+			"offsets": {
+				"from": 930200,
+				"to": 932200
+			},
+			"text": " ¿Y qué es lo que debemos hacer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,200",
+				"to": "00:15:35,200"
+			},
+			"offsets": {
+				"from": 932200,
+				"to": 935200
+			},
+			"text": " ¿Cuál es el núcleo central de eso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,200",
+				"to": "00:15:37,200"
+			},
+			"offsets": {
+				"from": 935200,
+				"to": 937200
+			},
+			"text": " ¿Para qué nos dice Reza?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:37,200",
+				"to": "00:15:39,200"
+			},
+			"offsets": {
+				"from": 937200,
+				"to": 939200
+			},
+			"text": " Reza es una conexión."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:39,200",
+				"to": "00:15:42,200"
+			},
+			"offsets": {
+				"from": 939200,
+				"to": 942200
+			},
+			"text": " Reza significa conectarte con el creador."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,200",
+				"to": "00:15:50,200"
+			},
+			"offsets": {
+				"from": 942200,
+				"to": 950200
+			},
+			"text": " Más allá de lo que implica desde el punto de vista de los aspectos de la doctrina,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,200",
+				"to": "00:15:53,200"
+			},
+			"offsets": {
+				"from": 950200,
+				"to": 953200
+			},
+			"text": " de la hallaría, de esto y de aquello."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:53,200",
+				"to": "00:16:03,200"
+			},
+			"offsets": {
+				"from": 953200,
+				"to": 963200
+			},
+			"text": " Pero en definitiva es un acto de diálogo con el creador."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,200",
+				"to": "00:16:10,200"
+			},
+			"offsets": {
+				"from": 963200,
+				"to": 970200
+			},
+			"text": " ¿Y qué nos enseña cuál es la enseñanza de la oración?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,200",
+				"to": "00:16:15,200"
+			},
+			"offsets": {
+				"from": 970200,
+				"to": 975200
+			},
+			"text": " ¿Cuál es la enseñanza más profunda de la oración?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,200",
+				"to": "00:16:19,200"
+			},
+			"offsets": {
+				"from": 975200,
+				"to": 979200
+			},
+			"text": " Hay muchas, pero la más profunda."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:19,200",
+				"to": "00:16:25,200"
+			},
+			"offsets": {
+				"from": 979200,
+				"to": 985200
+			},
+			"text": " Si decimos \"miramos de afuera\", digamos que no sabemos nada,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:25,200",
+				"to": "00:16:28,200"
+			},
+			"offsets": {
+				"from": 985200,
+				"to": 988200
+			},
+			"text": " que para que sea válido tenemos que hacernos la evolución,"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:28,200",
+				"to": "00:16:32,200"
+			},
+			"offsets": {
+				"from": 988200,
+				"to": 992200
+			},
+			"text": " que tenemos que orientarnos a la quibla, etcétera, etcétera, etcétera, etcétera."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,200",
+				"to": "00:16:35,200"
+			},
+			"offsets": {
+				"from": 992200,
+				"to": 995200
+			},
+			"text": " Lo vemos de afuera."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:35,200",
+				"to": "00:16:38,200"
+			},
+			"offsets": {
+				"from": 995200,
+				"to": 998200
+			},
+			"text": " ¿Qué podemos concluir cuando miramos eso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:38,200",
+				"to": "00:16:44,200"
+			},
+			"offsets": {
+				"from": 998200,
+				"to": 1004200
+			},
+			"text": " Es una conclusión válida."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,200",
+				"to": "00:16:49,200"
+			},
+			"offsets": {
+				"from": 1004200,
+				"to": 1009200
+			},
+			"text": " Bueno, eso es una conclusión válida."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,200",
+				"to": "00:16:51,200"
+			},
+			"offsets": {
+				"from": 1009200,
+				"to": 1011200
+			},
+			"text": " ¿Qué más?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:51,200",
+				"to": "00:16:58,200"
+			},
+			"offsets": {
+				"from": 1011200,
+				"to": 1018200
+			},
+			"text": " Ahí está la humildad, la humildad."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:58,200",
+				"to": "00:17:07,200"
+			},
+			"offsets": {
+				"from": 1018200,
+				"to": 1027200
+			},
+			"text": " Fíjense, nos estamos en una situación de recogimiento."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:07,200",
+				"to": "00:17:09,200"
+			},
+			"offsets": {
+				"from": 1027200,
+				"to": 1029200
+			},
+			"text": " ¿Por qué nos ponemos así con la mirada para abajo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:09,200",
+				"to": "00:17:13,200"
+			},
+			"offsets": {
+				"from": 1029200,
+				"to": 1033200
+			},
+			"text": " Cuando nos ponemos frente a algo, así con la mirada para abajo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:13,200",
+				"to": "00:17:21,200"
+			},
+			"offsets": {
+				"from": 1033200,
+				"to": 1041200
+			},
+			"text": " es una situación de estar en un estado de recogimiento"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:21,200",
+				"to": "00:17:24,200"
+			},
+			"offsets": {
+				"from": 1041200,
+				"to": 1044200
+			},
+			"text": " y de respeto en forma humilde."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,200",
+				"to": "00:17:30,200"
+			},
+			"offsets": {
+				"from": 1044200,
+				"to": 1050200
+			},
+			"text": " Es distinto estar así y mirar fijo con una situación de desafío."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,200",
+				"to": "00:17:34,200"
+			},
+			"offsets": {
+				"from": 1050200,
+				"to": 1054200
+			},
+			"text": " Tenés que estar en una situación de recogimiento."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,200",
+				"to": "00:17:37,200"
+			},
+			"offsets": {
+				"from": 1054200,
+				"to": 1057200
+			},
+			"text": " ¿Y después qué haces? Te inclinás."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,200",
+				"to": "00:17:44,200"
+			},
+			"offsets": {
+				"from": 1057200,
+				"to": 1064200
+			},
+			"text": " ¿Y después qué haces? ¿Cuál es la parte más honorable del cuerpo, ese rostro?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,200",
+				"to": "00:17:49,200"
+			},
+			"offsets": {
+				"from": 1064200,
+				"to": 1069200
+			},
+			"text": " ¿Y qué haces con el rostro y la frente? La postura."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,200",
+				"to": "00:17:53,200"
+			},
+			"offsets": {
+				"from": 1069200,
+				"to": 1073200
+			},
+			"text": " Es una lección que tenemos que aprender todos en esto."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:53,200",
+				"to": "00:18:02,200"
+			},
+			"offsets": {
+				"from": 1073200,
+				"to": 1082200
+			},
+			"text": " Lo que nos está diciendo es la humildad."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:02,200",
+				"to": "00:18:08,200"
+			},
+			"offsets": {
+				"from": 1082200,
+				"to": 1088200
+			},
+			"text": " Humildad te está diciendo, pero es frente a la."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,200",
+				"to": "00:18:13,200"
+			},
+			"offsets": {
+				"from": 1088200,
+				"to": 1093200
+			},
+			"text": " Tenemos que estar humildes."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,200",
+				"to": "00:18:15,200"
+			},
+			"offsets": {
+				"from": 1093200,
+				"to": 1095200
+			},
+			"text": " Frente a la tenemos que ser humildes, no dice la humildad."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,200",
+				"to": "00:18:21,200"
+			},
+			"offsets": {
+				"from": 1095200,
+				"to": 1101200
+			},
+			"text": " ¿Y qué nos dice con respecto al estado de mayor cercanía"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,200",
+				"to": "00:18:25,200"
+			},
+			"offsets": {
+				"from": 1101200,
+				"to": 1105200
+			},
+			"text": " que nos podemos encontrar frente al creador? ¿Cuál es?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,200",
+				"to": "00:18:27,200"
+			},
+			"offsets": {
+				"from": 1105200,
+				"to": 1107200
+			},
+			"text": " La posturación."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,200",
+				"to": "00:18:38,200"
+			},
+			"offsets": {
+				"from": 1107200,
+				"to": 1118200
+			},
+			"text": " ¿Por qué? Porque es el estado en donde uno se encuentra más vulnerable,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,200",
+				"to": "00:18:43,200"
+			},
+			"offsets": {
+				"from": 1118200,
+				"to": 1123200
+			},
+			"text": " está totalmente entregado, si lo hace así, no lo hace en forma mecánica,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,200",
+				"to": "00:18:52,200"
+			},
+			"offsets": {
+				"from": 1123200,
+				"to": 1132200
+			},
+			"text": " frente al ser que se ha adorado."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:52,200",
+				"to": "00:19:04,200"
+			},
+			"offsets": {
+				"from": 1132200,
+				"to": 1144200
+			},
+			"text": " Y en esa situación nos dice, \"Ustedes están más cerca de mí, pídame ahí\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,200",
+				"to": "00:19:16,200"
+			},
+			"offsets": {
+				"from": 1144200,
+				"to": 1156200
+			},
+			"text": " Entonces, frente a eso, escuchamos, obedecemos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,200",
+				"to": "00:19:23,200"
+			},
+			"offsets": {
+				"from": 1156200,
+				"to": 1163200
+			},
+			"text": " pero la lección que nos transmite ahí es la de humildad."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,200",
+				"to": "00:19:27,200"
+			},
+			"offsets": {
+				"from": 1163200,
+				"to": 1167200
+			},
+			"text": " Una persona que es humilde no se cree que la sabe todas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,200",
+				"to": "00:19:33,200"
+			},
+			"offsets": {
+				"from": 1167200,
+				"to": 1173200
+			},
+			"text": " no se cree que tiene todas, no se cree que tiene todas las respuestas"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,200",
+				"to": "00:19:36,200"
+			},
+			"offsets": {
+				"from": 1173200,
+				"to": 1176200
+			},
+			"text": " ni que tiene todo lo que necesita,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:36,200",
+				"to": "00:19:43,200"
+			},
+			"offsets": {
+				"from": 1176200,
+				"to": 1183200
+			},
+			"text": " sino está diciendo, \"Tengo una dependencia absoluta de ti\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:43,200",
+				"to": "00:20:05,200"
+			},
+			"offsets": {
+				"from": 1183200,
+				"to": 1205200
+			},
+			"text": " Esa humildad, pero esa humildad es frente a la, nada más,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,200",
+				"to": "00:20:12,200"
+			},
+			"offsets": {
+				"from": 1205200,
+				"to": 1212200
+			},
+			"text": " pero no hagamos una respuesta mecánica a todo esto."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,200",
+				"to": "00:20:20,200"
+			},
+			"offsets": {
+				"from": 1212200,
+				"to": 1220200
+			},
+			"text": " ¿Qué implica ser humilde frente al la nos tenemos que preguntar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:20,200",
+				"to": "00:20:25,200"
+			},
+			"offsets": {
+				"from": 1220200,
+				"to": 1225200
+			},
+			"text": " ¿Qué es ese mensaje que nos está dando en la humildad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,200",
+				"to": "00:20:30,200"
+			},
+			"offsets": {
+				"from": 1225200,
+				"to": 1230200
+			},
+			"text": " en la entrega, en el sometimiento?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,200",
+				"to": "00:20:36,200"
+			},
+			"offsets": {
+				"from": 1230200,
+				"to": 1236200
+			},
+			"text": " ¿Qué significa eso en nuestro día, en nuestra vida?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,200",
+				"to": "00:20:44,200"
+			},
+			"offsets": {
+				"from": 1236200,
+				"to": 1244200
+			},
+			"text": " ¿Qué parece Hamza?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:44,200",
+				"to": "00:20:52,200"
+			},
+			"offsets": {
+				"from": 1244200,
+				"to": 1252200
+			},
+			"text": " No, pero piensen, hay que escuchar, hay que pensar, hay que reflexionar."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,200",
+				"to": "00:20:58,200"
+			},
+			"offsets": {
+				"from": 1252200,
+				"to": 1258200
+			},
+			"text": " ¿Cómo? Piensen, piensen, va a surgir."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,200",
+				"to": "00:21:05,200"
+			},
+			"offsets": {
+				"from": 1258200,
+				"to": 1265200
+			},
+			"text": " Lo que nos pide es la, que pensemos, que reflexionemos, que pondremos."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,200",
+				"to": "00:21:10,200"
+			},
+			"offsets": {
+				"from": 1265200,
+				"to": 1270200
+			},
+			"text": " ¿Qué es eso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,200",
+				"to": "00:21:20,200"
+			},
+			"offsets": {
+				"from": 1270200,
+				"to": 1280200
+			},
+			"text": " Tenemos que preguntarnos, ¿cuál es esa situación de humildad real,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,200",
+				"to": "00:21:23,200"
+			},
+			"offsets": {
+				"from": 1280200,
+				"to": 1283200
+			},
+			"text": " no solo en la oración que se hace,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:23,200",
+				"to": "00:21:30,200"
+			},
+			"offsets": {
+				"from": 1283200,
+				"to": 1290200
+			},
+			"text": " que tiene que abarcar cada aspecto de nuestra vida?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,200",
+				"to": "00:21:38,200"
+			},
+			"offsets": {
+				"from": 1290200,
+				"to": 1298200
+			},
+			"text": " ¿Qué implica cada una de esas cuestiones?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,200",
+				"to": "00:21:48,200"
+			},
+			"offsets": {
+				"from": 1298200,
+				"to": 1308200
+			},
+			"text": " Si siempre estamos en su presencia, hay que estar conscientes que estar en su presencia."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,200",
+				"to": "00:22:07,200"
+			},
+			"offsets": {
+				"from": 1308200,
+				"to": 1327200
+			},
+			"text": " En una ocasión, dentro del pueblo de Moisés, que la pasea con él,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:07,200",
+				"to": "00:22:14,200"
+			},
+			"offsets": {
+				"from": 1327200,
+				"to": 1334200
+			},
+			"text": " su pueblo le dijo, \"Vos hablas con Dios\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:14,200",
+				"to": "00:22:22,200"
+			},
+			"offsets": {
+				"from": 1334200,
+				"to": 1342200
+			},
+			"text": " Ahora, cuando vayas y subas al Sinaí, decirle que queremos que venga,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,200",
+				"to": "00:22:30,200"
+			},
+			"offsets": {
+				"from": 1342200,
+				"to": 1350200
+			},
+			"text": " decirle que queremos que venga y que le vamos a presentar"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:30,200",
+				"to": "00:22:34,200"
+			},
+			"offsets": {
+				"from": 1350200,
+				"to": 1354200
+			},
+			"text": " y le vamos a hacer un banquete y lo esperamos."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,200",
+				"to": "00:22:38,200"
+			},
+			"offsets": {
+				"from": 1354200,
+				"to": 1358200
+			},
+			"text": " Moisés le dijo, \"Ustedes están locos."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:38,200",
+				"to": "00:22:45,200"
+			},
+			"offsets": {
+				"from": 1358200,
+				"to": 1365200
+			},
+			"text": " ¿Cómo Dios va a venir a comer con nosotros si Dios no necesita de todo? No escucharon absolutamente nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,200",
+				"to": "00:22:53,200"
+			},
+			"offsets": {
+				"from": 1365200,
+				"to": 1373200
+			},
+			"text": " Tantos años de software y no escuchan nada\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,200",
+				"to": "00:23:00,200"
+			},
+			"offsets": {
+				"from": 1373200,
+				"to": 1380200
+			},
+			"text": " Bueno, como siempre iba para tener el diálogo, la revelación de Allah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:00,200",
+				"to": "00:23:08,200"
+			},
+			"offsets": {
+				"from": 1380200,
+				"to": 1388200
+			},
+			"text": " y cuando va y tiene y al final le dice, \"Moisés le dice a Allah,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:08,200",
+				"to": "00:23:15,200"
+			},
+			"offsets": {
+				"from": 1388200,
+				"to": 1395200
+			},
+			"text": " tu pueblo me pidió algo y tú no me lo transmitiste\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,200",
+				"to": "00:23:17,200"
+			},
+			"offsets": {
+				"from": 1395200,
+				"to": 1397200
+			},
+			"text": " Bueno, pidieron esto."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,200",
+				"to": "00:23:22,200"
+			},
+			"offsets": {
+				"from": 1397200,
+				"to": 1402200
+			},
+			"text": " Bueno, decirle que lo preparen para mañana,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:22,200",
+				"to": "00:23:30,200"
+			},
+			"offsets": {
+				"from": 1402200,
+				"to": 1410200
+			},
+			"text": " tardecitas antes del Magrib, que lo preparen, y agarró todo el pueblo y hizo un banquete inmenso"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,200",
+				"to": "00:23:38,200"
+			},
+			"offsets": {
+				"from": 1410200,
+				"to": 1418200
+			},
+			"text": " con todos los manjares delicios, esto, aquello, pito, flauta."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,200",
+				"to": "00:23:45,200"
+			},
+			"offsets": {
+				"from": 1418200,
+				"to": 1425200
+			},
+			"text": " Y llegó la hora. Estaba llegando la hora."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,200",
+				"to": "00:23:51,200"
+			},
+			"offsets": {
+				"from": 1425200,
+				"to": 1431200
+			},
+			"text": " Todos, espectantes, va a venir al lado a comer con nosotros."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:51,200",
+				"to": "00:24:02,200"
+			},
+			"offsets": {
+				"from": 1431200,
+				"to": 1442200
+			},
+			"text": " Y de pronto, en el medio aparece alguien que estaba viajando, le dice, un viejito, le dice,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,200",
+				"to": "00:24:09,200"
+			},
+			"offsets": {
+				"from": 1442200,
+				"to": 1449200
+			},
+			"text": " \"Quiero comer. Tengo hambre, ¿me das de comer?\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,200",
+				"to": "00:24:15,200"
+			},
+			"offsets": {
+				"from": 1449200,
+				"to": 1455200
+			},
+			"text": " Tranquilo, acá está la comida, va a venir Allah a comer con nosotros, espera un poquito."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:15,200",
+				"to": "00:24:21,200"
+			},
+			"offsets": {
+				"from": 1455200,
+				"to": 1461200
+			},
+			"text": " Y pasaba el tiempo y no venía, y eran las nueve y Allah no venía."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,200",
+				"to": "00:24:25,200"
+			},
+			"offsets": {
+				"from": 1461200,
+				"to": 1465200
+			},
+			"text": " Y el tipo dice, \"Tengo hambre, ¿puedes esperar hambre?\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,200",
+				"to": "00:24:28,200"
+			},
+			"offsets": {
+				"from": 1465200,
+				"to": 1468200
+			},
+			"text": " \"Andá, andá, lavar los platos un poquitito, preparad esto\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:28,200",
+				"to": "00:24:35,200"
+			},
+			"offsets": {
+				"from": 1468200,
+				"to": 1475200
+			},
+			"text": " Tengo hambre, bueno, se fue el tipo con hambre, la comida ahí."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:35,200",
+				"to": "00:24:39,200"
+			},
+			"offsets": {
+				"from": 1475200,
+				"to": 1479200
+			},
+			"text": " Llegaron las 12 de la noche, bueno, ya está."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:39,200",
+				"to": "00:24:44,200"
+			},
+			"offsets": {
+				"from": 1479200,
+				"to": 1484200
+			},
+			"text": " Y toda la gente le empezó a decir, \"Moisés, ¿cómo puede ser que no preparaste la mesa?\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,200",
+				"to": "00:24:49,200"
+			},
+			"offsets": {
+				"from": 1484200,
+				"to": 1489200
+			},
+			"text": " Nos hiciste preparar todo esto, aquello, nos dijiste que iba a venir al lado y no vino."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,200",
+				"to": "00:24:53,200"
+			},
+			"offsets": {
+				"from": 1489200,
+				"to": 1493200
+			},
+			"text": " Bueno, al otro día le dijo al lado, \"¿cómo es?\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,200",
+				"to": "00:24:58,200"
+			},
+			"offsets": {
+				"from": 1493200,
+				"to": 1498200
+			},
+			"text": " Me dijiste que ibas a venir y no viniste."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,200",
+				"to": "00:25:03,200"
+			},
+			"offsets": {
+				"from": 1498200,
+				"to": 1503200
+			},
+			"text": " \"Te estamos esperando\", dijo Moisés."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:03,200",
+				"to": "00:25:08,200"
+			},
+			"offsets": {
+				"from": 1503200,
+				"to": 1508200
+			},
+			"text": " Había un siervo mío que pasó y les pidió de comer."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,200",
+				"to": "00:25:17,200"
+			},
+			"offsets": {
+				"from": 1508200,
+				"to": 1517200
+			},
+			"text": " Y ustedes no le dieron de comer, cuando era el momento indicado."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:17,200",
+				"to": "00:25:27,200"
+			},
+			"offsets": {
+				"from": 1517200,
+				"to": 1527200
+			},
+			"text": " Entonces le dijo, \"En palabras, ¿con quién estoy?\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,200",
+				"to": "00:25:34,200"
+			},
+			"offsets": {
+				"from": 1527200,
+				"to": 1534200
+			},
+			"text": " \"Estoy con aquel que tiene hambre, estoy con aquel que padece,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,200",
+				"to": "00:25:42,200"
+			},
+			"offsets": {
+				"from": 1534200,
+				"to": 1542200
+			},
+			"text": " estoy con aquel que necesita un refugio, estoy con aquel que estaba enfermo\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,200",
+				"to": "00:25:45,200"
+			},
+			"offsets": {
+				"from": 1542200,
+				"to": 1545200
+			},
+			"text": " \"Que nos dice el profeta\", le dijiste al otro salón."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,200",
+				"to": "00:25:52,200"
+			},
+			"offsets": {
+				"from": 1545200,
+				"to": 1552200
+			},
+			"text": " \"Que en el día del juicio te van a preguntar y te van a decir algo\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:52,200",
+				"to": "00:25:59,200"
+			},
+			"offsets": {
+				"from": 1552200,
+				"to": 1559200
+			},
+			"text": " \"Alá te va a decir en el día del juicio. Estaba hambriento y no me diste de comer\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:59,200",
+				"to": "00:26:14,200"
+			},
+			"offsets": {
+				"from": 1559200,
+				"to": 1574200
+			},
+			"text": " ¿Y cómo le vas a decir? \"Si vos sos alá el Señor de los mundos, no necesitas comida\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,200",
+				"to": "00:26:18,200"
+			},
+			"offsets": {
+				"from": 1574200,
+				"to": 1578200
+			},
+			"text": " \"No necesitas comida\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,200",
+				"to": "00:26:28,200"
+			},
+			"offsets": {
+				"from": 1578200,
+				"to": 1588200
+			},
+			"text": " \"Cuando uno de mis siervos estaba hambriento y vos no le diste de comer, no me alimentaste a mí\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:28,200",
+				"to": "00:26:33,200"
+			},
+			"offsets": {
+				"from": 1588200,
+				"to": 1593200
+			},
+			"text": " \"Estaba enfermo y no me visitaste\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,200",
+				"to": "00:26:35,200"
+			},
+			"offsets": {
+				"from": 1593200,
+				"to": 1595200
+			},
+			"text": " ¿Cómo puede ser si vos no te enfermas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,200",
+				"to": "00:26:45,200"
+			},
+			"offsets": {
+				"from": 1595200,
+				"to": 1605200
+			},
+			"text": " \"Cuando uno de mis siervos estaba enfermo, tú no lo visitaste\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:45,200",
+				"to": "00:26:53,200"
+			},
+			"offsets": {
+				"from": 1605200,
+				"to": 1613200
+			},
+			"text": " ¿Cuando tu humildad y tu realidad es efectiva?"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,200",
+				"to": "00:27:05,200"
+			},
+			"offsets": {
+				"from": 1613200,
+				"to": 1625200
+			},
+			"text": " \"Cuando eso se traslada a todos los órdenes de la vida\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,200",
+				"to": "00:27:09,200"
+			},
+			"offsets": {
+				"from": 1625200,
+				"to": 1629200
+			},
+			"text": " \"Si no no tenés din\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:09,200",
+				"to": "00:27:21,200"
+			},
+			"offsets": {
+				"from": 1629200,
+				"to": 1641200
+			},
+			"text": " O sea, ¿podés nominalmente decirte que sos un creyente, rezar, pero cuál es el camino que estás transitando?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:21,200",
+				"to": "00:27:32,200"
+			},
+			"offsets": {
+				"from": 1641200,
+				"to": 1652200
+			},
+			"text": " ¿Cuál es el camino que estás transitando?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:32,200",
+				"to": "00:27:38,200"
+			},
+			"offsets": {
+				"from": 1652200,
+				"to": 1658200
+			},
+			"text": " Eso es lo que tienes que preguntarte. Es algo sencillo y básico."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,200",
+				"to": "00:27:47,200"
+			},
+			"offsets": {
+				"from": 1658200,
+				"to": 1667200
+			},
+			"text": " O sea, el con, la maía en árabe, el con de Allah está con la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,200",
+				"to": "00:27:56,200"
+			},
+			"offsets": {
+				"from": 1667200,
+				"to": 1676200
+			},
+			"text": " Te preguntas acerca de, yo qué sé, cuestiones espectaculares."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,200",
+				"to": "00:28:04,200"
+			},
+			"offsets": {
+				"from": 1676200,
+				"to": 1684200
+			},
+			"text": " Esto, aquello que volar por los aires, que los milagros, que cuestiones maravillosas."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,200",
+				"to": "00:28:11,200"
+			},
+			"offsets": {
+				"from": 1684200,
+				"to": 1691200
+			},
+			"text": " Pero lo sencillo y lo básico que te dice a Allah es eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,200",
+				"to": "00:28:17,200"
+			},
+			"offsets": {
+				"from": 1691200,
+				"to": 1697200
+			},
+			"text": " Lleva esa oración, le pedís a Isdina, será tal mustaquín. Guíame, guíame."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:17,200",
+				"to": "00:28:23,200"
+			},
+			"offsets": {
+				"from": 1697200,
+				"to": 1703200
+			},
+			"text": " Entonces ese guiar, ¿de dónde surge?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,200",
+				"to": "00:28:32,200"
+			},
+			"offsets": {
+				"from": 1703200,
+				"to": 1712200
+			},
+			"text": " ¿De dónde surge? ¿Cuál es la respuesta que nos da Dios al pedido?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:32,200",
+				"to": "00:28:35,200"
+			},
+			"offsets": {
+				"from": 1712200,
+				"to": 1715200
+			},
+			"text": " ¿El Corán?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:35,200",
+				"to": "00:28:38,200"
+			},
+			"offsets": {
+				"from": 1715200,
+				"to": 1718200
+			},
+			"text": " ¿Qué nos dice el Corán?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:38,200",
+				"to": "00:28:50,200"
+			},
+			"offsets": {
+				"from": 1718200,
+				"to": 1730200
+			},
+			"text": " Constantemente nos habla de aquellos que no asisten, que no dan, que no brindan,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:50,200",
+				"to": "00:29:03,200"
+			},
+			"offsets": {
+				"from": 1730200,
+				"to": 1743200
+			},
+			"text": " que no hacen esto, que rechazan a las personas que están en determinadas necesidades."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:03,200",
+				"to": "00:29:08,200"
+			},
+			"offsets": {
+				"from": 1743200,
+				"to": 1748200
+			},
+			"text": " En el Corán."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:08,200",
+				"to": "00:29:16,200"
+			},
+			"offsets": {
+				"from": 1748200,
+				"to": 1756200
+			},
+			"text": " Muchísimas veces, o la gran mayoría de las veces que aparece la oración al lado de ¿qué aparece?"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:16,200",
+				"to": "00:29:34,200"
+			},
+			"offsets": {
+				"from": 1756200,
+				"to": 1774200
+			},
+			"text": " El Zacát. ¿Qué es Zacát? ¿Sí? Caridad. Pero caridad no se limita solamente a dar plata."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:34,200",
+				"to": "00:29:38,200"
+			},
+			"offsets": {
+				"from": 1774200,
+				"to": 1778200
+			},
+			"text": " Aún bien. Sí, dar plata."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,200",
+				"to": "00:29:46,200"
+			},
+			"offsets": {
+				"from": 1781200,
+				"to": 1786200
+			},
+			"text": " Y vos podrás decir, bueno, no tengo un mango. Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:46,200",
+				"to": "00:29:53,200"
+			},
+			"offsets": {
+				"from": 1786200,
+				"to": 1793200
+			},
+			"text": " Pero vamos allá de dar plata a alguien, es ocuparse por ese alguien."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,200",
+				"to": "00:30:01,200"
+			},
+			"offsets": {
+				"from": 1793200,
+				"to": 1801200
+			},
+			"text": " Cuando decimos nuestra propia nadiedad, o esto o aquello, ¿qué significa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,200",
+				"to": "00:30:13,200"
+			},
+			"offsets": {
+				"from": 1801200,
+				"to": 1813200
+			},
+			"text": " Significa vaciarte, o sea, nadiedad uno se da cuenta de esa idea, cuando se vacía de todos esos aspectos."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:13,200",
+				"to": "00:30:19,200"
+			},
+			"offsets": {
+				"from": 1813200,
+				"to": 1819200
+			},
+			"text": " De todos esos aspectos en su vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:19,200",
+				"to": "00:30:27,200"
+			},
+			"offsets": {
+				"from": 1819200,
+				"to": 1827200
+			},
+			"text": " Que lo único que se preocupa es por su metro cuadrado, es lo único que le interesa."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:27,200",
+				"to": "00:30:38,200"
+			},
+			"offsets": {
+				"from": 1827200,
+				"to": 1838200
+			},
+			"text": " Yo necesito esto, yo quiero esto, me falta esto para comprarme esto, para pagar esto, para pagar aquello, etcétera, etcétera, etcétera, etcétera."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,200",
+				"to": "00:30:45,200"
+			},
+			"offsets": {
+				"from": 1838200,
+				"to": 1845200
+			},
+			"text": " Pero ¿qué te pide Dios? ¿Qué trasiendas todo eso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,200",
+				"to": "00:30:50,200"
+			},
+			"offsets": {
+				"from": 1845200,
+				"to": 1850200
+			},
+			"text": " Y eso es amplio."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:50,200",
+				"to": "00:30:57,200"
+			},
+			"offsets": {
+				"from": 1850200,
+				"to": 1857200
+			},
+			"text": " Todo es caridad, dice el profeta Alegis Salatua Salam."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:57,200",
+				"to": "00:31:09,200"
+			},
+			"offsets": {
+				"from": 1857200,
+				"to": 1869200
+			},
+			"text": " Consular al afligido, sonreír, sonreírle a alguien, abrazar a alguien, escuchar a alguien."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:09,200",
+				"to": "00:31:11,200"
+			},
+			"offsets": {
+				"from": 1869200,
+				"to": 1871200
+			},
+			"text": " Es amplio."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,200",
+				"to": "00:31:16,200"
+			},
+			"offsets": {
+				"from": 1871200,
+				"to": 1876200
+			},
+			"text": " Todo eso constituye la caridad."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:16,200",
+				"to": "00:31:22,200"
+			},
+			"offsets": {
+				"from": 1876200,
+				"to": 1882200
+			},
+			"text": " La caridad es zakat, ¿qué significa? etimológicamente la palabra."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:22,200",
+				"to": "00:31:26,200"
+			},
+			"offsets": {
+				"from": 1882200,
+				"to": 1886200
+			},
+			"text": " Purificar, ¿sí? Purificar los bienes de algo."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:26,200",
+				"to": "00:31:32,200"
+			},
+			"offsets": {
+				"from": 1886200,
+				"to": 1892200
+			},
+			"text": " Purificamos nuestro ser de nuestro propio egoísmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,200",
+				"to": "00:31:41,200"
+			},
+			"offsets": {
+				"from": 1892200,
+				"to": 1901200
+			},
+			"text": " O sea, ¿qué sucede con el zakat? ¿qué sucede cuando tenemos que dar una vez por año contra qué luchamos?"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,200",
+				"to": "00:31:55,200"
+			},
+			"offsets": {
+				"from": 1901200,
+				"to": 1915200
+			},
+			"text": " Contra nuestra avidez, contra nuestra avaricia, contra eso luchamos."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,200",
+				"to": "00:32:03,200"
+			},
+			"offsets": {
+				"from": 1915200,
+				"to": 1923200
+			},
+			"text": " De la misma forma que cuando nosotros nos tenemos que ocupar y hacer algo por alguien, luchamos por..."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:03,200",
+				"to": "00:32:07,200"
+			},
+			"offsets": {
+				"from": 1923200,
+				"to": 1927200
+			},
+			"text": " y no lo hacemos, es indicación de qué, de ser avaros."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:07,200",
+				"to": "00:32:09,200"
+			},
+			"offsets": {
+				"from": 1927200,
+				"to": 1929200
+			},
+			"text": " ¿Por qué?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:09,200",
+				"to": "00:32:14,200"
+			},
+			"offsets": {
+				"from": 1929200,
+				"to": 1934200
+			},
+			"text": " Tengo que ir a visitar a alguien y no puedo porque estoy ocupado."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:14,200",
+				"to": "00:32:17,200"
+			},
+			"offsets": {
+				"from": 1934200,
+				"to": 1937200
+			},
+			"text": " No puedo porque tengo esto, porque tengo aquello."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:17,200",
+				"to": "00:32:28,200"
+			},
+			"offsets": {
+				"from": 1937200,
+				"to": 1948200
+			},
+			"text": " Bueno, de eso se trata el camino, de eso se trata la guía, de eso se trata la jihad."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:28,200",
+				"to": "00:32:38,200"
+			},
+			"offsets": {
+				"from": 1948200,
+				"to": 1958200
+			},
+			"text": " Es ese esfuerzo constante para alcanzar esa meta."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:38,200",
+				"to": "00:32:46,200"
+			},
+			"offsets": {
+				"from": 1958200,
+				"to": 1966200
+			},
+			"text": " Es decir, la meta que tiene para cada uno de nosotros, Allah, Subhanahuatala,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:46,200",
+				"to": "00:32:58,200"
+			},
+			"offsets": {
+				"from": 1966200,
+				"to": 1978200
+			},
+			"text": " es entender cada uno de estos aspectos que de alguna forma gobiernan nuestra realidad"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:58,200",
+				"to": "00:33:03,200"
+			},
+			"offsets": {
+				"from": 1978200,
+				"to": 1983200
+			},
+			"text": " y poder trascender a eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,200",
+				"to": "00:33:07,200"
+			},
+			"offsets": {
+				"from": 1983200,
+				"to": 1987200
+			},
+			"text": " Poder trascender a eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,200",
+				"to": "00:33:12,200"
+			},
+			"offsets": {
+				"from": 1987200,
+				"to": 1992200
+			},
+			"text": " Entonces me cuesta mucho dar."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,200",
+				"to": "00:33:19,200"
+			},
+			"offsets": {
+				"from": 1992200,
+				"to": 1999200
+			},
+			"text": " Entonces qué es lo que hago? Dar dinero."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:19,200",
+				"to": "00:33:21,200"
+			},
+			"offsets": {
+				"from": 1999200,
+				"to": 2001200
+			},
+			"text": " Y trato de dar."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:21,200",
+				"to": "00:33:26,200"
+			},
+			"offsets": {
+				"from": 2001200,
+				"to": 2006200
+			},
+			"text": " Entonces alguien puede decir \"no tengo un mango\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:26,200",
+				"to": "00:33:31,200"
+			},
+			"offsets": {
+				"from": 2006200,
+				"to": 2011200
+			},
+			"text": " ¿Sí? No tengo un mango."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:31,200",
+				"to": "00:33:41,200"
+			},
+			"offsets": {
+				"from": 2011200,
+				"to": 2021200
+			},
+			"text": " Primero uno cuando dice \"no tengo plata\", está quejándose frente al creador."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:41,200",
+				"to": "00:33:43,200"
+			},
+			"offsets": {
+				"from": 2021200,
+				"to": 2023200
+			},
+			"text": " Cada uno tiene su situación."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,200",
+				"to": "00:33:47,200"
+			},
+			"offsets": {
+				"from": 2023200,
+				"to": 2027200
+			},
+			"text": " Allah determinó que fuese así, desde el comienzo de la humanidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:47,200",
+				"to": "00:33:51,200"
+			},
+			"offsets": {
+				"from": 2027200,
+				"to": 2031200
+			},
+			"text": " Hay gente que tiene nada, gente que tiene poco,"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:51,200",
+				"to": "00:33:55,200"
+			},
+			"offsets": {
+				"from": 2031200,
+				"to": 2035200
+			},
+			"text": " gente que tiene la alcanza más o menos y gente que le sobra."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,200",
+				"to": "00:34:01,200"
+			},
+			"offsets": {
+				"from": 2035200,
+				"to": 2041200
+			},
+			"text": " Y la surna de Allah determinó que eso fuese así."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:01,200",
+				"to": "00:34:05,200"
+			},
+			"offsets": {
+				"from": 2041200,
+				"to": 2045200
+			},
+			"text": " Tenemos que entender, no decir \"no tengo plata\"."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:05,200",
+				"to": "00:34:13,200"
+			},
+			"offsets": {
+				"from": 2045200,
+				"to": 2053200
+			},
+			"text": " No tengo plata."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:13,200",
+				"to": "00:34:21,200"
+			},
+			"offsets": {
+				"from": 2053200,
+				"to": 2061200
+			},
+			"text": " En una ocasión cuando mi padre cumplió años,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:21,200",
+				"to": "00:34:25,200"
+			},
+			"offsets": {
+				"from": 2061200,
+				"to": 2065200
+			},
+			"text": " \"no me vas a regalar nada\". \"No tengo nada\", le dije."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:25,200",
+				"to": "00:34:34,200"
+			},
+			"offsets": {
+				"from": 2065200,
+				"to": 2074200
+			},
+			"text": " No se trata de lo que vas a dar, sino del acto de dar, aunque sea sencillo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:34,200",
+				"to": "00:34:42,200"
+			},
+			"offsets": {
+				"from": 2074200,
+				"to": 2082200
+			},
+			"text": " una cajita de fósforos alcanza, con un dibujito."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,200",
+				"to": "00:34:56,200"
+			},
+			"offsets": {
+				"from": 2082200,
+				"to": 2096200
+			},
+			"text": " Es salir de ese egoísmo, romper con esa arrogancia que uno tiene."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:56,200",
+				"to": "00:35:03,200"
+			},
+			"offsets": {
+				"from": 2096200,
+				"to": 2103200
+			},
+			"text": " Porque cuando uno no se ocupa de lo que lo rodea, es arrogante, es soberbio."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,200",
+				"to": "00:35:07,200"
+			},
+			"offsets": {
+				"from": 2103200,
+				"to": 2107200
+			},
+			"text": " Está ensemismado en sí mismo."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,200",
+				"to": "00:35:13,200"
+			},
+			"offsets": {
+				"from": 2107200,
+				"to": 2113200
+			},
+			"text": " Lo que en última instancia adora es a su propio ego,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:13,200",
+				"to": "00:35:19,200"
+			},
+			"offsets": {
+				"from": 2113200,
+				"to": 2119200
+			},
+			"text": " que lo edifica como un Dios."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:19,200",
+				"to": "00:35:26,200"
+			},
+			"offsets": {
+				"from": 2119200,
+				"to": 2126200
+			},
+			"text": " Entonces cuando uno es cuando la oración, cuando el salate empieza a hacer efecto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,200",
+				"to": "00:35:34,200"
+			},
+			"offsets": {
+				"from": 2126200,
+				"to": 2134200
+			},
+			"text": " es cuando uno se hace más humilde frente a la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:34,200",
+				"to": "00:35:40,200"
+			},
+			"offsets": {
+				"from": 2134200,
+				"to": 2140200
+			},
+			"text": " Cuando uno realmente se hace humilde frente a la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:40,200",
+				"to": "00:35:45,200"
+			},
+			"offsets": {
+				"from": 2140200,
+				"to": 2145200
+			},
+			"text": " Cuando sin importar a quién tenés enfrente,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:45,200",
+				"to": "00:35:49,200"
+			},
+			"offsets": {
+				"from": 2145200,
+				"to": 2149200
+			},
+			"text": " vos le das esa importancia que tiene que tener esa persona."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,200",
+				"to": "00:35:53,200"
+			},
+			"offsets": {
+				"from": 2149200,
+				"to": 2153200
+			},
+			"text": " De acuerdo a lo que es, lo tratás bien, lo tratás con dignidad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:53,200",
+				"to": "00:36:01,200"
+			},
+			"offsets": {
+				"from": 2153200,
+				"to": 2161200
+			},
+			"text": " lo tratás con amabilidad, con honor."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,200",
+				"to": "00:36:04,200"
+			},
+			"offsets": {
+				"from": 2161200,
+				"to": 2164200
+			},
+			"text": " Entendiendo también el lugar que ocupa."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,200",
+				"to": "00:36:09,200"
+			},
+			"offsets": {
+				"from": 2164200,
+				"to": 2169200
+			},
+			"text": " El profeta aléjizarato a Salama siempre venía una mujer que estaba siempre al fondo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:09,200",
+				"to": "00:36:12,200"
+			},
+			"offsets": {
+				"from": 2169200,
+				"to": 2172200
+			},
+			"text": " barría la mesquita, pero nadie la veía."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,200",
+				"to": "00:36:18,200"
+			},
+			"offsets": {
+				"from": 2172200,
+				"to": 2178200
+			},
+			"text": " Y en cierta ocasión no la ve."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:18,200",
+				"to": "00:36:25,200"
+			},
+			"offsets": {
+				"from": 2178200,
+				"to": 2185200
+			},
+			"text": " Y le preguntan ¿qué pasó con la señora que venía siempre y estaba ahí al fondo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,200",
+				"to": "00:36:31,200"
+			},
+			"offsets": {
+				"from": 2185200,
+				"to": 2191200
+			},
+			"text": " Falleció, le dicen. ¿Y por qué no me avisaron?"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,200",
+				"to": "00:36:36,200"
+			},
+			"offsets": {
+				"from": 2191200,
+				"to": 2196200
+			},
+			"text": " Agarró, se levantó y fue a rezar frente a su tumba."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,200",
+				"to": "00:36:41,200"
+			},
+			"offsets": {
+				"from": 2196200,
+				"to": 2201200
+			},
+			"text": " Fíjense lo que es la empatía que tenía el profeta aléjizarato a Salama."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:41,200",
+				"to": "00:36:49,200"
+			},
+			"offsets": {
+				"from": 2201200,
+				"to": 2209200
+			},
+			"text": " Sin importar lo que era, no tenía nada, se preocupaba por esa persona."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,200",
+				"to": "00:36:58,200"
+			},
+			"offsets": {
+				"from": 2209200,
+				"to": 2218200
+			},
+			"text": " Ahora póngale en el lado opuesto, vino un dignitario para hablar con él."
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,200",
+				"to": "00:37:02,200"
+			},
+			"offsets": {
+				"from": 2218200,
+				"to": 2222200
+			},
+			"text": " Agarró su capa, se la puso para que se siente ahí."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:02,200",
+				"to": "00:37:06,200"
+			},
+			"offsets": {
+				"from": 2222200,
+				"to": 2226200
+			},
+			"text": " Es una señal de respeto frente a esa persona,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:06,200",
+				"to": "00:37:12,200"
+			},
+			"offsets": {
+				"from": 2226200,
+				"to": 2232200
+			},
+			"text": " que tenía una posición de honor y dignidad frente a su pueblo."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:12,200",
+				"to": "00:37:13,200"
+			},
+			"offsets": {
+				"from": 2232200,
+				"to": 2233200
+			},
+			"text": " ¿Y qué es lo que nos enseñó?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:13,200",
+				"to": "00:37:22,200"
+			},
+			"offsets": {
+				"from": 2233200,
+				"to": 2242200
+			},
+			"text": " Si le llega a alguien, a un noble, a alguien importante de un pueblo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:22,200",
+				"to": "00:37:25,200"
+			},
+			"offsets": {
+				"from": 2242200,
+				"to": 2245200
+			},
+			"text": " tratenlo con dignidad, con honor."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:25,200",
+				"to": "00:37:33,200"
+			},
+			"offsets": {
+				"from": 2245200,
+				"to": 2253200
+			},
+			"text": " Fíjense en los dos extremos cómo a la hora de proceder."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:33,200",
+				"to": "00:37:43,200"
+			},
+			"offsets": {
+				"from": 2253200,
+				"to": 2263200
+			},
+			"text": " Entonces, esa humildad nos trae este mundo para que aprendamos."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:43,200",
+				"to": "00:37:45,200"
+			},
+			"offsets": {
+				"from": 2263200,
+				"to": 2265200
+			},
+			"text": " ¿Qué tenemos que aprender en todo esto?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,200",
+				"to": "00:37:50,200"
+			},
+			"offsets": {
+				"from": 2265200,
+				"to": 2270200
+			},
+			"text": " ¿A qué nos lleva esa humildad?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,200",
+				"to": "00:37:52,200"
+			},
+			"offsets": {
+				"from": 2270200,
+				"to": 2272200
+			},
+			"text": " ¿A qué nos lleva?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:52,200",
+				"to": "00:37:55,200"
+			},
+			"offsets": {
+				"from": 2272200,
+				"to": 2275200
+			},
+			"text": " Por supuesto, pero ¿qué? ¿Qué?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:55,200",
+				"to": "00:38:00,200"
+			},
+			"offsets": {
+				"from": 2275200,
+				"to": 2280200
+			},
+			"text": " El amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:00,200",
+				"to": "00:38:04,200"
+			},
+			"offsets": {
+				"from": 2280200,
+				"to": 2284200
+			},
+			"text": " Si no desarrollamos eso, no desarrollamos amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:04,200",
+				"to": "00:38:11,200"
+			},
+			"offsets": {
+				"from": 2284200,
+				"to": 2291200
+			},
+			"text": " Es muy fácil amar a tu hijo, amar a tu esposo, esposa depende quién."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:11,200",
+				"to": "00:38:21,200"
+			},
+			"offsets": {
+				"from": 2291200,
+				"to": 2301200
+			},
+			"text": " Pero eso es sencillo, a tu padre, a tu madre, a lo que fuese que sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:21,200",
+				"to": "00:38:26,200"
+			},
+			"offsets": {
+				"from": 2301200,
+				"to": 2306200
+			},
+			"text": " Pero todos procedemos de un mismo padre y madre, de Adam y Eva."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:26,200",
+				"to": "00:38:29,200"
+			},
+			"offsets": {
+				"from": 2306200,
+				"to": 2309200
+			},
+			"text": " Todos fuimos creados por el mismo creador."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:29,200",
+				"to": "00:38:36,200"
+			},
+			"offsets": {
+				"from": 2309200,
+				"to": 2316200
+			},
+			"text": " Y todos fuimos puestos en este mundo para alcanzar la realidad del taugid."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:36,200",
+				"to": "00:38:40,200"
+			},
+			"offsets": {
+				"from": 2316200,
+				"to": 2320200
+			},
+			"text": " La realidad del taugid es decir de la unidad divina."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:40,200",
+				"to": "00:38:44,200"
+			},
+			"offsets": {
+				"from": 2320200,
+				"to": 2324200
+			},
+			"text": " Entender que la ala es uno en su esencia."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:44,200",
+				"to": "00:38:45,200"
+			},
+			"offsets": {
+				"from": 2324200,
+				"to": 2325200
+			},
+			"text": " ¿Qué significa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:45,200",
+				"to": "00:38:46,200"
+			},
+			"offsets": {
+				"from": 2325200,
+				"to": 2326200
+			},
+			"text": " No importa."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:46,200",
+				"to": "00:38:49,200"
+			},
+			"offsets": {
+				"from": 2326200,
+				"to": 2329200
+			},
+			"text": " Uno en sus actos y uno en la creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:38:49,200",
+				"to": "00:38:51,200"
+			},
+			"offsets": {
+				"from": 2329200,
+				"to": 2331200
+			},
+			"text": " ¿Cómo se manifiesta en la creación?"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:51,200",
+				"to": "00:39:01,200"
+			},
+			"offsets": {
+				"from": 2331200,
+				"to": 2341200
+			},
+			"text": " ¿Cómo ponernos ser verdaderos unitarios, no de la boca, no doctrinalmente?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:01,200",
+				"to": "00:39:06,200"
+			},
+			"offsets": {
+				"from": 2341200,
+				"to": 2346200
+			},
+			"text": " ¿Cuándo nos unimos a esa creación?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:06,200",
+				"to": "00:39:15,200"
+			},
+			"offsets": {
+				"from": 2346200,
+				"to": 2355200
+			},
+			"text": " ¿Cuándo de pronto empezamos a ponernos en lugar del otro?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:15,200",
+				"to": "00:39:22,200"
+			},
+			"offsets": {
+				"from": 2355200,
+				"to": 2362200
+			},
+			"text": " ¿Cuándo de pronto rompen una rama, se cae un árbol y te duele algo adentro tuyo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:22,200",
+				"to": "00:39:25,200"
+			},
+			"offsets": {
+				"from": 2362200,
+				"to": 2365200
+			},
+			"text": " ¿Cuándo ves un pajarito que cayó?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:25,200",
+				"to": "00:39:28,200"
+			},
+			"offsets": {
+				"from": 2365200,
+				"to": 2368200
+			},
+			"text": " ¿Cuándo ves un animalito que sufre?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:28,200",
+				"to": "00:39:31,200"
+			},
+			"offsets": {
+				"from": 2368200,
+				"to": 2371200
+			},
+			"text": " ¿Cuándo ves otro ser humano?"
+		},
+		{
+			"timestamps": {
+				"from": "00:39:31,200",
+				"to": "00:39:33,200"
+			},
+			"offsets": {
+				"from": 2371200,
+				"to": 2373200
+			},
+			"text": " Pero cada uno tiene un orden de dignidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:33,200",
+				"to": "00:39:38,200"
+			},
+			"offsets": {
+				"from": 2373200,
+				"to": 2378200
+			},
+			"text": " O sea, vos podés cuidar de lo mejor a tu perro y a tu gato."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:38,200",
+				"to": "00:39:41,200"
+			},
+			"offsets": {
+				"from": 2378200,
+				"to": 2381200
+			},
+			"text": " Sí, está muy bien y es lo que hay que hacer."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:41,200",
+				"to": "00:39:44,200"
+			},
+			"offsets": {
+				"from": 2381200,
+				"to": 2384200
+			},
+			"text": " Fíjense lo que dijo el profeta aléjizarato a Salam."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:44,200",
+				"to": "00:39:46,200"
+			},
+			"offsets": {
+				"from": 2384200,
+				"to": 2386200
+			},
+			"text": " Es muy importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:46,200",
+				"to": "00:39:53,200"
+			},
+			"offsets": {
+				"from": 2386200,
+				"to": 2393200
+			},
+			"text": " No lo tomemos con cuestiones abstractas, historias azúcar y bárbaro."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:53,200",
+				"to": "00:39:57,200"
+			},
+			"offsets": {
+				"from": 2393200,
+				"to": 2397200
+			},
+			"text": " Porque en todo hay una enseñanza."
+		},
+		{
+			"timestamps": {
+				"from": "00:39:57,200",
+				"to": "00:40:02,200"
+			},
+			"offsets": {
+				"from": 2397200,
+				"to": 2402200
+			},
+			"text": " Había una mujer que era muy de bota."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:02,200",
+				"to": "00:40:06,200"
+			},
+			"offsets": {
+				"from": 2402200,
+				"to": 2406200
+			},
+			"text": " Está todo el día rezando en la mezquita."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:06,200",
+				"to": "00:40:11,200"
+			},
+			"offsets": {
+				"from": 2406200,
+				"to": 2411200
+			},
+			"text": " Todo el día, fíjense, está todo el día en la mezquita."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:11,200",
+				"to": "00:40:16,200"
+			},
+			"offsets": {
+				"from": 2411200,
+				"to": 2416200
+			},
+			"text": " Para que no la venza al sueño si ataba a las columnas."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:16,200",
+				"to": "00:40:21,200"
+			},
+			"offsets": {
+				"from": 2416200,
+				"to": 2421200
+			},
+			"text": " Entonces alguien le dice, fulanita de tal, esta mujer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:21,200",
+				"to": "00:40:23,200"
+			},
+			"offsets": {
+				"from": 2421200,
+				"to": 2423200
+			},
+			"text": " está todo el día rezando en la mezquita."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:23,200",
+				"to": "00:40:26,200"
+			},
+			"offsets": {
+				"from": 2423200,
+				"to": 2426200
+			},
+			"text": " Pero en su casa tiene un gato que lo maltrata."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:26,200",
+				"to": "00:40:28,200"
+			},
+			"offsets": {
+				"from": 2426200,
+				"to": 2428200
+			},
+			"text": " ¿Y qué dijo el profeta?"
+		},
+		{
+			"timestamps": {
+				"from": "00:40:28,200",
+				"to": "00:40:32,200"
+			},
+			"offsets": {
+				"from": 2428200,
+				"to": 2432200
+			},
+			"text": " Es uno de los habitantes del fuego."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:32,200",
+				"to": "00:40:37,200"
+			},
+			"offsets": {
+				"from": 2432200,
+				"to": 2437200
+			},
+			"text": " En otra ocasión, estaban en un viaje."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:37,200",
+				"to": "00:40:42,200"
+			},
+			"offsets": {
+				"from": 2437200,
+				"to": 2442200
+			},
+			"text": " Había una mujer que, si no me equivoco, de mal vivir, una prostituta."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:42,200",
+				"to": "00:40:46,200"
+			},
+			"offsets": {
+				"from": 2442200,
+				"to": 2446200
+			},
+			"text": " Había un perrito al costado del camino."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:46,200",
+				"to": "00:40:52,200"
+			},
+			"offsets": {
+				"from": 2446200,
+				"to": 2452200
+			},
+			"text": " Sacó de su propia agua, agarró un cuenquito y le puso para que beba."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:52,200",
+				"to": "00:40:57,200"
+			},
+			"offsets": {
+				"from": 2452200,
+				"to": 2457200
+			},
+			"text": " Dijo, por ese acto todos sus pecados han sido perdonados."
+		},
+		{
+			"timestamps": {
+				"from": "00:40:57,200",
+				"to": "00:41:03,200"
+			},
+			"offsets": {
+				"from": 2457200,
+				"to": 2463200
+			},
+			"text": " Entienden que detrás de todo esto está el amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:03,200",
+				"to": "00:41:07,200"
+			},
+			"offsets": {
+				"from": 2463200,
+				"to": 2467200
+			},
+			"text": " La luz es amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:07,200",
+				"to": "00:41:10,200"
+			},
+			"offsets": {
+				"from": 2467200,
+				"to": 2470200
+			},
+			"text": " Entonces ¿qué significa todo esto?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:10,200",
+				"to": "00:41:13,200"
+			},
+			"offsets": {
+				"from": 2470200,
+				"to": 2473200
+			},
+			"text": " ¿Qué significa tener una meta y un propósito?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:13,200",
+				"to": "00:41:15,200"
+			},
+			"offsets": {
+				"from": 2473200,
+				"to": 2475200
+			},
+			"text": " Es alcanzar ese amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:15,200",
+				"to": "00:41:17,200"
+			},
+			"offsets": {
+				"from": 2475200,
+				"to": 2477200
+			},
+			"text": " Sentir ese amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:17,200",
+				"to": "00:41:19,200"
+			},
+			"offsets": {
+				"from": 2477200,
+				"to": 2479200
+			},
+			"text": " Salir de tu metro cuadrado."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:19,200",
+				"to": "00:41:21,200"
+			},
+			"offsets": {
+				"from": 2479200,
+				"to": 2481200
+			},
+			"text": " Salir de tu ego."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:21,200",
+				"to": "00:41:29,200"
+			},
+			"offsets": {
+				"from": 2481200,
+				"to": 2489200
+			},
+			"text": " Puedes estar todo el día rezando haciendo esto o no, lo que fuese que sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:29,200",
+				"to": "00:41:31,200"
+			},
+			"offsets": {
+				"from": 2489200,
+				"to": 2491200
+			},
+			"text": " Mejor rezar que no hacer nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:31,200",
+				"to": "00:41:35,200"
+			},
+			"offsets": {
+				"from": 2491200,
+				"to": 2495200
+			},
+			"text": " Ahora bien, ¿para qué te das dios esas herramientas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:35,200",
+				"to": "00:41:40,200"
+			},
+			"offsets": {
+				"from": 2495200,
+				"to": 2500200
+			},
+			"text": " ¿Para qué te das esas herramientas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:40,200",
+				"to": "00:41:45,200"
+			},
+			"offsets": {
+				"from": 2500200,
+				"to": 2505200
+			},
+			"text": " ¿Para qué alcances ese amor divino?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:45,200",
+				"to": "00:41:49,200"
+			},
+			"offsets": {
+				"from": 2505200,
+				"to": 2509200
+			},
+			"text": " Esas son las lecciones que nos ponen."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:49,200",
+				"to": "00:41:51,200"
+			},
+			"offsets": {
+				"from": 2509200,
+				"to": 2511200
+			},
+			"text": " Esas son las pruebas."
+		},
+		{
+			"timestamps": {
+				"from": "00:41:51,200",
+				"to": "00:41:53,200"
+			},
+			"offsets": {
+				"from": 2511200,
+				"to": 2513200
+			},
+			"text": " ¿Qué nos dice?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:53,200",
+				"to": "00:41:58,200"
+			},
+			"offsets": {
+				"from": 2513200,
+				"to": 2518200
+			},
+			"text": " ¿Creó la muerte y la vida?"
+		},
+		{
+			"timestamps": {
+				"from": "00:41:58,200",
+				"to": "00:42:03,200"
+			},
+			"offsets": {
+				"from": 2518200,
+				"to": 2523200
+			},
+			"text": " ¿Para probarlos? ¿Quién de ustedes obra mejor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:03,200",
+				"to": "00:42:19,200"
+			},
+			"offsets": {
+				"from": 2523200,
+				"to": 2539200
+			},
+			"text": " ¿Y qué dice después?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:19,200",
+				"to": "00:42:21,200"
+			},
+			"offsets": {
+				"from": 2539200,
+				"to": 2541200
+			},
+			"text": " ¿Uahúa?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:21,200",
+				"to": "00:42:24,200"
+			},
+			"offsets": {
+				"from": 2541200,
+				"to": 2544200
+			},
+			"text": " ¿Has hizo el gafor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:24,200",
+				"to": "00:42:30,200"
+			},
+			"offsets": {
+				"from": 2544200,
+				"to": 2550200
+			},
+			"text": " Entonces ¿por qué dice primero la muerte?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:30,200",
+				"to": "00:42:36,200"
+			},
+			"offsets": {
+				"from": 2550200,
+				"to": 2556200
+			},
+			"text": " ¿Por qué es el fin en este plano de existencia?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:36,200",
+				"to": "00:42:40,200"
+			},
+			"offsets": {
+				"from": 2556200,
+				"to": 2560200
+			},
+			"text": " La vida es la prueba."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:40,200",
+				"to": "00:42:46,200"
+			},
+			"offsets": {
+				"from": 2560200,
+				"to": 2566200
+			},
+			"text": " La vida es la prueba."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:46,200",
+				"to": "00:42:50,200"
+			},
+			"offsets": {
+				"from": 2566200,
+				"to": 2570200
+			},
+			"text": " La vida es la prueba."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:50,200",
+				"to": "00:42:53,200"
+			},
+			"offsets": {
+				"from": 2570200,
+				"to": 2573200
+			},
+			"text": " ¿Y qué es esa prueba?"
+		},
+		{
+			"timestamps": {
+				"from": "00:42:53,200",
+				"to": "00:42:56,200"
+			},
+			"offsets": {
+				"from": 2573200,
+				"to": 2576200
+			},
+			"text": " No es una prueba por el acto de probar."
+		},
+		{
+			"timestamps": {
+				"from": "00:42:56,200",
+				"to": "00:43:01,200"
+			},
+			"offsets": {
+				"from": 2576200,
+				"to": 2581200
+			},
+			"text": " No es una mira, prueba ética, moral."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:01,200",
+				"to": "00:43:07,200"
+			},
+			"offsets": {
+				"from": 2581200,
+				"to": 2587200
+			},
+			"text": " Cada situación que vivimos desde que nacimos en este mundo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:07,200",
+				"to": "00:43:11,200"
+			},
+			"offsets": {
+				"from": 2587200,
+				"to": 2591200
+			},
+			"text": " cada situación que vivimos desde que nacimos en este mundo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:11,200",
+				"to": "00:43:17,200"
+			},
+			"offsets": {
+				"from": 2591200,
+				"to": 2597200
+			},
+			"text": " cada cuestión que pasamos en este mundo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:17,200",
+				"to": "00:43:19,200"
+			},
+			"offsets": {
+				"from": 2597200,
+				"to": 2599200
+			},
+			"text": " son situaciones que nos permiten."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:19,200",
+				"to": "00:43:23,200"
+			},
+			"offsets": {
+				"from": 2599200,
+				"to": 2603200
+			},
+			"text": " No es prueba, vamos a joderlo, le vamos a poner pruebas."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:23,200",
+				"to": "00:43:27,200"
+			},
+			"offsets": {
+				"from": 2603200,
+				"to": 2607200
+			},
+			"text": " No, eso está para que trasiendas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:27,200",
+				"to": "00:43:30,200"
+			},
+			"offsets": {
+				"from": 2607200,
+				"to": 2610200
+			},
+			"text": " para que comprendas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:30,200",
+				"to": "00:43:35,200"
+			},
+			"offsets": {
+				"from": 2610200,
+				"to": 2615200
+			},
+			"text": " para que entiendas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:35,200",
+				"to": "00:43:41,200"
+			},
+			"offsets": {
+				"from": 2615200,
+				"to": 2621200
+			},
+			"text": " para que alcances tu propósito en esta vida,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:41,200",
+				"to": "00:43:44,200"
+			},
+			"offsets": {
+				"from": 2621200,
+				"to": 2624200
+			},
+			"text": " para que te fuerces."
+		},
+		{
+			"timestamps": {
+				"from": "00:43:44,200",
+				"to": "00:43:48,200"
+			},
+			"offsets": {
+				"from": 2624200,
+				"to": 2628200
+			},
+			"text": " ¿Qué es el esfuerzo en última instancia?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:48,200",
+				"to": "00:43:53,200"
+			},
+			"offsets": {
+				"from": 2628200,
+				"to": 2633200
+			},
+			"text": " ¿Qué nos dice Allah Subhanahu Wa Ta'ala?"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:53,200",
+				"to": "00:43:55,200"
+			},
+			"offsets": {
+				"from": 2633200,
+				"to": 2635200
+			},
+			"text": " Allah Dina, Ya Hadoufina,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:55,200",
+				"to": "00:43:58,200"
+			},
+			"offsets": {
+				"from": 2635200,
+				"to": 2638200
+			},
+			"text": " la Nahdianna Subbúlana,"
+		},
+		{
+			"timestamps": {
+				"from": "00:43:58,200",
+				"to": "00:44:00,200"
+			},
+			"offsets": {
+				"from": 2638200,
+				"to": 2640200
+			},
+			"text": " aquellos que se fuerzan."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:00,200",
+				"to": "00:44:02,200"
+			},
+			"offsets": {
+				"from": 2640200,
+				"to": 2642200
+			},
+			"text": " ¿Qué usan?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:02,200",
+				"to": "00:44:05,200"
+			},
+			"offsets": {
+				"from": 2642200,
+				"to": 2645200
+			},
+			"text": " ¿Qué usa Allah Subhanahu Wa Ta'ala?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:05,200",
+				"to": "00:44:07,200"
+			},
+			"offsets": {
+				"from": 2645200,
+				"to": 2647200
+			},
+			"text": " Ya Hadoufina, jihad."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:07,200",
+				"to": "00:44:09,200"
+			},
+			"offsets": {
+				"from": 2647200,
+				"to": 2649200
+			},
+			"text": " Jihad es esfuerzo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:09,200",
+				"to": "00:44:14,200"
+			},
+			"offsets": {
+				"from": 2649200,
+				"to": 2654200
+			},
+			"text": " esfuerzo en pos fina, por Allah."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:14,200",
+				"to": "00:44:17,200"
+			},
+			"offsets": {
+				"from": 2654200,
+				"to": 2657200
+			},
+			"text": " ¿Qué implica esfuerzo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:17,200",
+				"to": "00:44:24,200"
+			},
+			"offsets": {
+				"from": 2657200,
+				"to": 2664200
+			},
+			"text": " ¿Qué implica poner una intención,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:24,200",
+				"to": "00:44:27,200"
+			},
+			"offsets": {
+				"from": 2664200,
+				"to": 2667200
+			},
+			"text": " una meta, una intención y un propósito interior,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:27,200",
+				"to": "00:44:30,200"
+			},
+			"offsets": {
+				"from": 2667200,
+				"to": 2670200
+			},
+			"text": " para trascender a todas aquellas cuestiones"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:30,200",
+				"to": "00:44:35,200"
+			},
+			"offsets": {
+				"from": 2670200,
+				"to": 2675200
+			},
+			"text": " que se ponen delante de cada uno de nosotros."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:35,200",
+				"to": "00:44:40,200"
+			},
+			"offsets": {
+				"from": 2675200,
+				"to": 2680200
+			},
+			"text": " Ahora si miramos hacia atrás, en nuestra vida,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:40,200",
+				"to": "00:44:46,200"
+			},
+			"offsets": {
+				"from": 2680200,
+				"to": 2686200
+			},
+			"text": " no vamos a ver que cada eslabón en nuestra vida,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:46,200",
+				"to": "00:44:52,200"
+			},
+			"offsets": {
+				"from": 2686200,
+				"to": 2692200
+			},
+			"text": " no hay nada, no hay nada, absolutamente nada,"
+		},
+		{
+			"timestamps": {
+				"from": "00:44:52,200",
+				"to": "00:44:59,200"
+			},
+			"offsets": {
+				"from": 2692200,
+				"to": 2699200
+			},
+			"text": " que no esté perfectamente trazado para cada uno de nosotros."
+		},
+		{
+			"timestamps": {
+				"from": "00:44:59,200",
+				"to": "00:45:01,200"
+			},
+			"offsets": {
+				"from": 2699200,
+				"to": 2701200
+			},
+			"text": " Cada situación que se te presentó,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:01,200",
+				"to": "00:45:06,200"
+			},
+			"offsets": {
+				"from": 2701200,
+				"to": 2706200
+			},
+			"text": " cada circunstancia, cada alegría, cada tristeza,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:06,200",
+				"to": "00:45:09,200"
+			},
+			"offsets": {
+				"from": 2706200,
+				"to": 2709200
+			},
+			"text": " se presentó a vos."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:09,200",
+				"to": "00:45:14,200"
+			},
+			"offsets": {
+				"from": 2709200,
+				"to": 2714200
+			},
+			"text": " ¿Para qué? Para que la resuelvas de determinada forma."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:14,200",
+				"to": "00:45:17,200"
+			},
+			"offsets": {
+				"from": 2714200,
+				"to": 2717200
+			},
+			"text": " Por eso decimos jihadí nasirat al-Mustakim."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:17,200",
+				"to": "00:45:20,200"
+			},
+			"offsets": {
+				"from": 2717200,
+				"to": 2720200
+			},
+			"text": " Por eso pedimos a Dios que nos guíe."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:20,200",
+				"to": "00:45:23,200"
+			},
+			"offsets": {
+				"from": 2720200,
+				"to": 2723200
+			},
+			"text": " Eso es fundamental."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:23,200",
+				"to": "00:45:26,200"
+			},
+			"offsets": {
+				"from": 2723200,
+				"to": 2726200
+			},
+			"text": " Pero no es una guía abstracta,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:26,200",
+				"to": "00:45:28,200"
+			},
+			"offsets": {
+				"from": 2726200,
+				"to": 2728200
+			},
+			"text": " no es una simple guía de decir bueno,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:28,200",
+				"to": "00:45:32,200"
+			},
+			"offsets": {
+				"from": 2728200,
+				"to": 2732200
+			},
+			"text": " entre el islamo estoy salvo."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:32,200",
+				"to": "00:45:38,200"
+			},
+			"offsets": {
+				"from": 2732200,
+				"to": 2738200
+			},
+			"text": " Ya no tengo, ya está todo."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:38,200",
+				"to": "00:45:48,200"
+			},
+			"offsets": {
+				"from": 2738200,
+				"to": 2748200
+			},
+			"text": " No, se siente ese donde se sienta más cómodo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:45:48,200",
+				"to": "00:45:51,200"
+			},
+			"offsets": {
+				"from": 2748200,
+				"to": 2751200
+			},
+			"text": " no se haga problema, si no tiene frío, si no puede ir adentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:51,200",
+				"to": "00:45:57,200"
+			},
+			"offsets": {
+				"from": 2751200,
+				"to": 2757200
+			},
+			"text": " Entonces no se trata de eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:45:57,200",
+				"to": "00:46:04,200"
+			},
+			"offsets": {
+				"from": 2757200,
+				"to": 2764200
+			},
+			"text": " Fíjate cuando eras, ¿qué dice al-Lá lo que lee en el sur y así?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:04,200",
+				"to": "00:46:09,200"
+			},
+			"offsets": {
+				"from": 2764200,
+				"to": 2769200
+			},
+			"text": " ¿Qué dice al-Lá acerca del día del juicio?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:09,200",
+				"to": "00:46:12,200"
+			},
+			"offsets": {
+				"from": 2769200,
+				"to": 2772200
+			},
+			"text": " ¿Cómo va a ser?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:12,200",
+				"to": "00:46:14,200"
+			},
+			"offsets": {
+				"from": 2772200,
+				"to": 2774200
+			},
+			"text": " ¿Se acuerdan?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:14,200",
+				"to": "00:46:19,200"
+			},
+			"offsets": {
+				"from": 2774200,
+				"to": 2779200
+			},
+			"text": " ¿Qué le va a decir la persona?"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:19,200",
+				"to": "00:46:24,200"
+			},
+			"offsets": {
+				"from": 2779200,
+				"to": 2784200
+			},
+			"text": " No, es una diacina, hay algo concreto y específico"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:24,200",
+				"to": "00:46:27,200"
+			},
+			"offsets": {
+				"from": 2784200,
+				"to": 2787200
+			},
+			"text": " que nos habla de un aspecto de lo que va a pasar"
+		},
+		{
+			"timestamps": {
+				"from": "00:46:27,200",
+				"to": "00:46:39,200"
+			},
+			"offsets": {
+				"from": 2787200,
+				"to": 2799200
+			},
+			"text": " cuando nos vayamos de este mundo."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:39,200",
+				"to": "00:46:48,200"
+			},
+			"offsets": {
+				"from": 2799200,
+				"to": 2808200
+			},
+			"text": " Otra cosa."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:48,200",
+				"to": "00:46:50,200"
+			},
+			"offsets": {
+				"from": 2808200,
+				"to": 2810200
+			},
+			"text": " Nos está diciendo algo."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:50,200",
+				"to": "00:46:56,200"
+			},
+			"offsets": {
+				"from": 2810200,
+				"to": 2816200
+			},
+			"text": " En ese momento la boca se va a sellar."
+		},
+		{
+			"timestamps": {
+				"from": "00:46:56,200",
+				"to": "00:47:01,200"
+			},
+			"offsets": {
+				"from": 2816200,
+				"to": 2821200
+			},
+			"text": " Y cada parte del cuerpo va a testificar."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:01,200",
+				"to": "00:47:12,200"
+			},
+			"offsets": {
+				"from": 2821200,
+				"to": 2832200
+			},
+			"text": " No vas a poder contradecir ninguno de los actos que realizaste."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:12,200",
+				"to": "00:47:15,200"
+			},
+			"offsets": {
+				"from": 2832200,
+				"to": 2835200
+			},
+			"text": " ¿Qué dice al-Lá acerca de la rendición de cuentas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:15,200",
+				"to": "00:47:17,200"
+			},
+			"offsets": {
+				"from": 2835200,
+				"to": 2837200
+			},
+			"text": " ¿Cómo va a ser?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:17,200",
+				"to": "00:47:21,200"
+			},
+			"offsets": {
+				"from": 2837200,
+				"to": 2841200
+			},
+			"text": " ¿Cómo va a ser?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:21,200",
+				"to": "00:47:24,200"
+			},
+			"offsets": {
+				"from": 2841200,
+				"to": 2844200
+			},
+			"text": " Ahí está, bueno, no lee en el corán."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:24,200",
+				"to": "00:47:27,200"
+			},
+			"offsets": {
+				"from": 2844200,
+				"to": 2847200
+			},
+			"text": " ¿Qué va a pasar ahí?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:27,200",
+				"to": "00:47:29,200"
+			},
+			"offsets": {
+				"from": 2847200,
+				"to": 2849200
+			},
+			"text": " ¿Qué va a pasar ahí?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:29,200",
+				"to": "00:47:33,200"
+			},
+			"offsets": {
+				"from": 2849200,
+				"to": 2853200
+			},
+			"text": " ¿Vas a poder y vas a ver todo tu vida?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:33,200",
+				"to": "00:47:36,200"
+			},
+			"offsets": {
+				"from": 2853200,
+				"to": 2856200
+			},
+			"text": " Así."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:36,200",
+				"to": "00:47:38,200"
+			},
+			"offsets": {
+				"from": 2856200,
+				"to": 2858200
+			},
+			"text": " Y Dios no te va a juzgar."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:38,200",
+				"to": "00:47:40,200"
+			},
+			"offsets": {
+				"from": 2858200,
+				"to": 2860200
+			},
+			"text": " Él es el juez."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:40,200",
+				"to": "00:47:42,200"
+			},
+			"offsets": {
+				"from": 2860200,
+				"to": 2862200
+			},
+			"text": " Pero tu boca va a estar sin ti."
+		},
+		{
+			"timestamps": {
+				"from": "00:47:42,200",
+				"to": "00:47:45,200"
+			},
+			"offsets": {
+				"from": 2862200,
+				"to": 2865200
+			},
+			"text": " ¿Vas a ver lo que hiciste?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:45,200",
+				"to": "00:47:49,200"
+			},
+			"offsets": {
+				"from": 2865200,
+				"to": 2869200
+			},
+			"text": " ¿Qué nos dice al-Lá en los últimos horas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:49,200",
+				"to": "00:47:58,200"
+			},
+			"offsets": {
+				"from": 2869200,
+				"to": 2878200
+			},
+			"text": " ¿Qué hace?"
+		},
+		{
+			"timestamps": {
+				"from": "00:47:58,200",
+				"to": "00:48:00,200"
+			},
+			"offsets": {
+				"from": 2878200,
+				"to": 2880200
+			},
+			"text": " ¿Quién hace?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:00,200",
+				"to": "00:48:03,200"
+			},
+			"offsets": {
+				"from": 2880200,
+				"to": 2883200
+			},
+			"text": " ¿Lo mínimo, mínimo, mínimo de bien?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:03,200",
+				"to": "00:48:05,200"
+			},
+			"offsets": {
+				"from": 2883200,
+				"to": 2885200
+			},
+			"text": " ¿Lo va a ver?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:05,200",
+				"to": "00:48:08,200"
+			},
+			"offsets": {
+				"from": 2885200,
+				"to": 2888200
+			},
+			"text": " ¿Quién hace lo mínimo de mal?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:08,200",
+				"to": "00:48:10,200"
+			},
+			"offsets": {
+				"from": 2888200,
+				"to": 2890200
+			},
+			"text": " ¿Lo va a ver?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:10,200",
+				"to": "00:48:14,200"
+			},
+			"offsets": {
+				"from": 2890200,
+				"to": 2894200
+			},
+			"text": " Entonces delante tuyo se van a presentar determinadas cuestiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:14,200",
+				"to": "00:48:16,200"
+			},
+			"offsets": {
+				"from": 2894200,
+				"to": 2896200
+			},
+			"text": " ¿Vas a ver cada una?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:16,200",
+				"to": "00:48:19,200"
+			},
+			"offsets": {
+				"from": 2896200,
+				"to": 2899200
+			},
+			"text": " ¿Como una película rápido de todo lo que pasó?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:19,200",
+				"to": "00:48:21,200"
+			},
+			"offsets": {
+				"from": 2899200,
+				"to": 2901200
+			},
+			"text": " Sí, tienes Kiram al-Katibin."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:21,200",
+				"to": "00:48:23,200"
+			},
+			"offsets": {
+				"from": 2901200,
+				"to": 2903200
+			},
+			"text": " Tenés acá, lo estás escribiendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:23,200",
+				"to": "00:48:26,200"
+			},
+			"offsets": {
+				"from": 2903200,
+				"to": 2906200
+			},
+			"text": " Cada segundo, cada milisegundo están escribiendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:26,200",
+				"to": "00:48:28,200"
+			},
+			"offsets": {
+				"from": 2906200,
+				"to": 2908200
+			},
+			"text": " Hay un récord, ¿sí?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:28,200",
+				"to": "00:48:30,200"
+			},
+			"offsets": {
+				"from": 2908200,
+				"to": 2910200
+			},
+			"text": " Se está grabando todo."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:30,200",
+				"to": "00:48:33,200"
+			},
+			"offsets": {
+				"from": 2910200,
+				"to": 2913200
+			},
+			"text": " Está grabando la película de tu vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:33,200",
+				"to": "00:48:36,200"
+			},
+			"offsets": {
+				"from": 2913200,
+				"to": 2916200
+			},
+			"text": " Graba, graba, graba, graba, graba."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:36,200",
+				"to": "00:48:38,200"
+			},
+			"offsets": {
+				"from": 2916200,
+				"to": 2918200
+			},
+			"text": " Graba."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:38,200",
+				"to": "00:48:43,200"
+			},
+			"offsets": {
+				"from": 2918200,
+				"to": 2923200
+			},
+			"text": " Vos, tus propios actos van a ser muy rápido."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:43,200",
+				"to": "00:48:45,200"
+			},
+			"offsets": {
+				"from": 2923200,
+				"to": 2925200
+			},
+			"text": " Va a pasar delante de tuyo en un segundo."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:45,200",
+				"to": "00:48:49,200"
+			},
+			"offsets": {
+				"from": 2925200,
+				"to": 2929200
+			},
+			"text": " ¿Vas a ver el bien que hiciste?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:49,200",
+				"to": "00:48:53,200"
+			},
+			"offsets": {
+				"from": 2929200,
+				"to": 2933200
+			},
+			"text": " Y la dicha de eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:48:53,200",
+				"to": "00:48:58,200"
+			},
+			"offsets": {
+				"from": 2933200,
+				"to": 2938200
+			},
+			"text": " ¿Vas a ver hasta el último al mínimo mal que hiciste?"
+		},
+		{
+			"timestamps": {
+				"from": "00:48:58,200",
+				"to": "00:49:01,200"
+			},
+			"offsets": {
+				"from": 2938200,
+				"to": 2941200
+			},
+			"text": " De pronto eras chico y no te daba cuenta"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:01,200",
+				"to": "00:49:03,200"
+			},
+			"offsets": {
+				"from": 2941200,
+				"to": 2943200
+			},
+			"text": " y rayaste el auto de alguien."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:03,200",
+				"to": "00:49:06,200"
+			},
+			"offsets": {
+				"from": 2943200,
+				"to": 2946200
+			},
+			"text": " ¿O le hiciste una mala broma a alguien?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:06,200",
+				"to": "00:49:08,200"
+			},
+			"offsets": {
+				"from": 2946200,
+				"to": 2948200
+			},
+			"text": " ¿Vas a verlo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:08,200",
+				"to": "00:49:14,200"
+			},
+			"offsets": {
+				"from": 2948200,
+				"to": 2954200
+			},
+			"text": " ¿Y vas a sentir el dolor que sintió esa persona?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:14,200",
+				"to": "00:49:18,200"
+			},
+			"offsets": {
+				"from": 2954200,
+				"to": 2958200
+			},
+			"text": " Y así con cada acto de tu vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:18,200",
+				"to": "00:49:20,200"
+			},
+			"offsets": {
+				"from": 2958200,
+				"to": 2960200
+			},
+			"text": " Entonces, ¿qué es lo que te dice Allah?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:20,200",
+				"to": "00:49:22,200"
+			},
+			"offsets": {
+				"from": 2960200,
+				"to": 2962200
+			},
+			"text": " ¡Apúrate!"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:22,200",
+				"to": "00:49:24,200"
+			},
+			"offsets": {
+				"from": 2962200,
+				"to": 2964200
+			},
+			"text": " ¡Apúrate!"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:24,200",
+				"to": "00:49:26,200"
+			},
+			"offsets": {
+				"from": 2964200,
+				"to": 2966200
+			},
+			"text": " Hacer actos de bien."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:26,200",
+				"to": "00:49:29,200"
+			},
+			"offsets": {
+				"from": 2966200,
+				"to": 2969200
+			},
+			"text": " Que sea más de los malos."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:29,200",
+				"to": "00:49:32,200"
+			},
+			"offsets": {
+				"from": 2969200,
+				"to": 2972200
+			},
+			"text": " Es más, te dice."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:32,200",
+				"to": "00:49:36,200"
+			},
+			"offsets": {
+				"from": 2972200,
+				"to": 2976200
+			},
+			"text": " Cada acto malo que haces va a ser uno."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:36,200",
+				"to": "00:49:40,200"
+			},
+			"offsets": {
+				"from": 2976200,
+				"to": 2980200
+			},
+			"text": " Cada acto de bien lo voy a multiplicar"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:40,200",
+				"to": "00:49:43,200"
+			},
+			"offsets": {
+				"from": 2980200,
+				"to": 2983200
+			},
+			"text": " la dicha que vas a tener en el otro mundo"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:43,200",
+				"to": "00:49:47,200"
+			},
+			"offsets": {
+				"from": 2983200,
+				"to": 2987200
+			},
+			"text": " hasta por 700 veces."
+		},
+		{
+			"timestamps": {
+				"from": "00:49:47,200",
+				"to": "00:49:50,200"
+			},
+			"offsets": {
+				"from": 2987200,
+				"to": 2990200
+			},
+			"text": " ¿Por qué es importante el bien?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:50,200",
+				"to": "00:49:56,200"
+			},
+			"offsets": {
+				"from": 2990200,
+				"to": 2996200
+			},
+			"text": " ¿No es simplemente ético, filosófico, ético, moral?"
+		},
+		{
+			"timestamps": {
+				"from": "00:49:56,200",
+				"to": "00:50:03,200"
+			},
+			"offsets": {
+				"from": 2996200,
+				"to": 3003200
+			},
+			"text": " ¿Va la profundidad misma del ser que es el amor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:03,200",
+				"to": "00:50:04,200"
+			},
+			"offsets": {
+				"from": 3003200,
+				"to": 3004200
+			},
+			"text": " ¿Qué es el amor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:04,200",
+				"to": "00:50:07,200"
+			},
+			"offsets": {
+				"from": 3004200,
+				"to": 3007200
+			},
+			"text": " Cuando no existe, eso no hay nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:07,200",
+				"to": "00:50:11,200"
+			},
+			"offsets": {
+				"from": 3007200,
+				"to": 3011200
+			},
+			"text": " Entonces, ¿cómo uno desarrolla el amor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:11,200",
+				"to": "00:50:17,200"
+			},
+			"offsets": {
+				"from": 3011200,
+				"to": 3017200
+			},
+			"text": " Entiendiendo su propia nadidad, eso es la humildad."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:17,200",
+				"to": "00:50:22,200"
+			},
+			"offsets": {
+				"from": 3017200,
+				"to": 3022200
+			},
+			"text": " La pucha."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:22,200",
+				"to": "00:50:24,200"
+			},
+			"offsets": {
+				"from": 3022200,
+				"to": 3024200
+			},
+			"text": " ¿Quién soy?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:24,200",
+				"to": "00:50:29,200"
+			},
+			"offsets": {
+				"from": 3024200,
+				"to": 3029200
+			},
+			"text": " ¿Por qué me creo que, por ser un llejo, un médico,"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:29,200",
+				"to": "00:50:31,200"
+			},
+			"offsets": {
+				"from": 3029200,
+				"to": 3031200
+			},
+			"text": " esto aquello soy mejor que él?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:31,200",
+				"to": "00:50:32,200"
+			},
+			"offsets": {
+				"from": 3031200,
+				"to": 3032200
+			},
+			"text": " ¿Por qué?"
+		},
+		{
+			"timestamps": {
+				"from": "00:50:32,200",
+				"to": "00:50:34,200"
+			},
+			"offsets": {
+				"from": 3032200,
+				"to": 3034200
+			},
+			"text": " Si vos no hiciste nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:34,200",
+				"to": "00:50:36,200"
+			},
+			"offsets": {
+				"from": 3034200,
+				"to": 3036200
+			},
+			"text": " Eso es una capacidad que Dios te dio y te puso ahí."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:36,200",
+				"to": "00:50:38,200"
+			},
+			"offsets": {
+				"from": 3036200,
+				"to": 3038200
+			},
+			"text": " No hiciste absolutamente nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:38,200",
+				"to": "00:50:41,200"
+			},
+			"offsets": {
+				"from": 3038200,
+				"to": 3041200
+			},
+			"text": " Pasó porque pasó de esa forma."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:41,200",
+				"to": "00:50:44,200"
+			},
+			"offsets": {
+				"from": 3041200,
+				"to": 3044200
+			},
+			"text": " Pero eso te hace mejor a alguien."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:44,200",
+				"to": "00:50:48,200"
+			},
+			"offsets": {
+				"from": 3044200,
+				"to": 3048200
+			},
+			"text": " Te hace mejor a alguien."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:48,200",
+				"to": "00:50:51,200"
+			},
+			"offsets": {
+				"from": 3048200,
+				"to": 3051200
+			},
+			"text": " Si él tiene más amor que yo."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:51,200",
+				"to": "00:50:53,200"
+			},
+			"offsets": {
+				"from": 3051200,
+				"to": 3053200
+			},
+			"text": " Si él sirve más."
+		},
+		{
+			"timestamps": {
+				"from": "00:50:53,200",
+				"to": "00:51:00,200"
+			},
+			"offsets": {
+				"from": 3053200,
+				"to": 3060200
+			},
+			"text": " Si él es un ser más servicial, humilde,"
+		},
+		{
+			"timestamps": {
+				"from": "00:51:00,200",
+				"to": "00:51:06,200"
+			},
+			"offsets": {
+				"from": 3060200,
+				"to": 3066200
+			},
+			"text": " complace al creador a través de esos actos de amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:06,200",
+				"to": "00:51:10,200"
+			},
+			"offsets": {
+				"from": 3066200,
+				"to": 3070200
+			},
+			"text": " Es infinitamente superior a mí."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:10,200",
+				"to": "00:51:14,200"
+			},
+			"offsets": {
+				"from": 3070200,
+				"to": 3074200
+			},
+			"text": " Dios no mide por tus títulos, tus bienes y tus posesiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:14,200",
+				"to": "00:51:17,200"
+			},
+			"offsets": {
+				"from": 3074200,
+				"to": 3077200
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:17,200",
+				"to": "00:51:24,200"
+			},
+			"offsets": {
+				"from": 3077200,
+				"to": 3084200
+			},
+			"text": " Dios mide por lo que tenés en el corazón."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:24,200",
+				"to": "00:51:30,200"
+			},
+			"offsets": {
+				"from": 3084200,
+				"to": 3090200
+			},
+			"text": " Dios mide por lo que tenés en el corazón."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:30,200",
+				"to": "00:51:32,200"
+			},
+			"offsets": {
+				"from": 3090200,
+				"to": 3092200
+			},
+			"text": " Un título no te da nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:32,200",
+				"to": "00:51:35,200"
+			},
+			"offsets": {
+				"from": 3092200,
+				"to": 3095200
+			},
+			"text": " Que tengas mucha plata tampoco."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:35,200",
+				"to": "00:51:40,200"
+			},
+			"offsets": {
+				"from": 3095200,
+				"to": 3100200
+			},
+			"text": " Que tengas... No."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:40,200",
+				"to": "00:51:43,200"
+			},
+			"offsets": {
+				"from": 3100200,
+				"to": 3103200
+			},
+			"text": " Es el amor lo que te acerca al Dios."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:43,200",
+				"to": "00:51:48,200"
+			},
+			"offsets": {
+				"from": 3103200,
+				"to": 3108200
+			},
+			"text": " El que tiene conciencia de Dios tiene ese amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:48,200",
+				"to": "00:51:56,200"
+			},
+			"offsets": {
+				"from": 3108200,
+				"to": 3116200
+			},
+			"text": " Ese amor constante del servicio por la creación en general."
+		},
+		{
+			"timestamps": {
+				"from": "00:51:56,200",
+				"to": "00:52:05,200"
+			},
+			"offsets": {
+				"from": 3116200,
+				"to": 3125200
+			},
+			"text": " Preguntate cuántos árboles planten en mi vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:05,200",
+				"to": "00:52:10,200"
+			},
+			"offsets": {
+				"from": 3125200,
+				"to": 3130200
+			},
+			"text": " Cuántas personas cuidé."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:10,200",
+				"to": "00:52:16,200"
+			},
+			"offsets": {
+				"from": 3130200,
+				"to": 3136200
+			},
+			"text": " Preguntate todas esas cosas."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:16,200",
+				"to": "00:52:19,200"
+			},
+			"offsets": {
+				"from": 3136200,
+				"to": 3139200
+			},
+			"text": " Te ves tiempo."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:19,200",
+				"to": "00:52:24,200"
+			},
+			"offsets": {
+				"from": 3139200,
+				"to": 3144200
+			},
+			"text": " Tiempo para empezar a hacer algo por el prójimo."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:24,200",
+				"to": "00:52:26,200"
+			},
+			"offsets": {
+				"from": 3144200,
+				"to": 3146200
+			},
+			"text": " La creación."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:26,200",
+				"to": "00:52:30,200"
+			},
+			"offsets": {
+				"from": 3146200,
+				"to": 3150200
+			},
+			"text": " Cuando me vaya de este mundo, ¿qué es lo que voy a dejar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:30,200",
+				"to": "00:52:34,200"
+			},
+			"offsets": {
+				"from": 3150200,
+				"to": 3154200
+			},
+			"text": " Voy a dejar un lugar mejor o peor del que recibe."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:34,200",
+				"to": "00:52:42,200"
+			},
+			"offsets": {
+				"from": 3154200,
+				"to": 3162200
+			},
+			"text": " Esa es la pregunta que nos tenemos que hacer cada uno de nosotros."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:42,200",
+				"to": "00:52:45,200"
+			},
+			"offsets": {
+				"from": 3162200,
+				"to": 3165200
+			},
+			"text": " ¿Qué es lo que hago para dejar un mundo mejor?"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:45,200",
+				"to": "00:52:49,200"
+			},
+			"offsets": {
+				"from": 3165200,
+				"to": 3169200
+			},
+			"text": " En todo aspecto."
+		},
+		{
+			"timestamps": {
+				"from": "00:52:49,200",
+				"to": "00:52:57,200"
+			},
+			"offsets": {
+				"from": 3169200,
+				"to": 3177200
+			},
+			"text": " ¿Cómo hago para de alguna forma parar el mal que hay en este mundo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:52:57,200",
+				"to": "00:53:00,200"
+			},
+			"offsets": {
+				"from": 3177200,
+				"to": 3180200
+			},
+			"text": " Empecé por lo adentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:00,200",
+				"to": "00:53:10,200"
+			},
+			"offsets": {
+				"from": 3180200,
+				"to": 3190200
+			},
+			"text": " No empecé por grandes epopeyas."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:10,200",
+				"to": "00:53:13,200"
+			},
+			"offsets": {
+				"from": 3190200,
+				"to": 3193200
+			},
+			"text": " No empecé por grandes epopeyas."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:13,200",
+				"to": "00:53:17,200"
+			},
+			"offsets": {
+				"from": 3193200,
+				"to": 3197200
+			},
+			"text": " No es el exterior lo que importa."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:17,200",
+				"to": "00:53:24,200"
+			},
+			"offsets": {
+				"from": 3197200,
+				"to": 3204200
+			},
+			"text": " Por ejemplo, ves..."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:24,200",
+				"to": "00:53:30,200"
+			},
+			"offsets": {
+				"from": 3204200,
+				"to": 3210200
+			},
+			"text": " Les dije que hubieran la serie este de Befa Sultan."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:30,200",
+				"to": "00:53:34,200"
+			},
+			"offsets": {
+				"from": 3210200,
+				"to": 3214200
+			},
+			"text": " Te puedes quedar con las formas exteriores."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:34,200",
+				"to": "00:53:42,200"
+			},
+			"offsets": {
+				"from": 3214200,
+				"to": 3222200
+			},
+			"text": " Te puedes quedar con el touch, con la jirca, con los vestimentos, con esto, con aquello, con el vocabulario."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:42,200",
+				"to": "00:53:47,200"
+			},
+			"offsets": {
+				"from": 3222200,
+				"to": 3227200
+			},
+			"text": " Esa no era la idea, no importa un carajo eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:47,200",
+				"to": "00:53:52,200"
+			},
+			"offsets": {
+				"from": 3227200,
+				"to": 3232200
+			},
+			"text": " Lo que importa es que entiendan qué es lo que se hace ahí."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:52,200",
+				"to": "00:53:59,200"
+			},
+			"offsets": {
+				"from": 3232200,
+				"to": 3239200
+			},
+			"text": " Venga, venga, Sacher, que hoy lo encuentro sin nada en la boca, Alejandro."
+		},
+		{
+			"timestamps": {
+				"from": "00:53:59,200",
+				"to": "00:54:12,200"
+			},
+			"offsets": {
+				"from": 3239200,
+				"to": 3252200
+			},
+			"text": " Lo estamos bajando."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:12,200",
+				"to": "00:54:18,200"
+			},
+			"offsets": {
+				"from": 3252200,
+				"to": 3258200
+			},
+			"text": " Eso no importa, las formas exteriores no importa, no te definen lo que sos."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:18,200",
+				"to": "00:54:23,200"
+			},
+			"offsets": {
+				"from": 3258200,
+				"to": 3263200
+			},
+			"text": " No te definen lo que sos."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:23,200",
+				"to": "00:54:26,200"
+			},
+			"offsets": {
+				"from": 3263200,
+				"to": 3266200
+			},
+			"text": " ¿Qué era lo que tendrían que aprender de ahí?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:26,200",
+				"to": "00:54:33,200"
+			},
+			"offsets": {
+				"from": 3266200,
+				"to": 3273200
+			},
+			"text": " El servicio, el adab, el amor, la preocupación por el prójimo."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:33,200",
+				"to": "00:54:38,200"
+			},
+			"offsets": {
+				"from": 3273200,
+				"to": 3278200
+			},
+			"text": " ¿Cómo se da sin esperar recibir nada a cambio?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:38,200",
+				"to": "00:54:44,200"
+			},
+			"offsets": {
+				"from": 3278200,
+				"to": 3284200
+			},
+			"text": " ¿Qué implica el combate interior?"
+		},
+		{
+			"timestamps": {
+				"from": "00:54:44,200",
+				"to": "00:54:47,200"
+			},
+			"offsets": {
+				"from": 3284200,
+				"to": 3287200
+			},
+			"text": " Si aprendiste eso, te sirvió un montón."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:47,200",
+				"to": "00:54:57,200"
+			},
+			"offsets": {
+				"from": 3287200,
+				"to": 3297200
+			},
+			"text": " Si quedaste con lo de afuera, no te sirvió de nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:54:57,200",
+				"to": "00:55:00,200"
+			},
+			"offsets": {
+				"from": 3297200,
+				"to": 3300200
+			},
+			"text": " Es la esencia, el mensaje."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:00,200",
+				"to": "00:55:02,200"
+			},
+			"offsets": {
+				"from": 3300200,
+				"to": 3302200
+			},
+			"text": " Ellos eran como eran, era su época."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:02,200",
+				"to": "00:55:05,200"
+			},
+			"offsets": {
+				"from": 3302200,
+				"to": 3305200
+			},
+			"text": " La época ahora cambió."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:05,200",
+				"to": "00:55:10,200"
+			},
+			"offsets": {
+				"from": 3305200,
+				"to": 3310200
+			},
+			"text": " El profeta de Alejiz Salatua Saddam se vestía como se vestía en las personas del siglo VII."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:10,200",
+				"to": "00:55:13,200"
+			},
+			"offsets": {
+				"from": 3310200,
+				"to": 3313200
+			},
+			"text": " Hoy estamos en el siglo XXI."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:13,200",
+				"to": "00:55:17,200"
+			},
+			"offsets": {
+				"from": 3313200,
+				"to": 3317200
+			},
+			"text": " ¿Cuál es la esencia de la vestimenta?"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:17,200",
+				"to": "00:55:24,200"
+			},
+			"offsets": {
+				"from": 3317200,
+				"to": 3324200
+			},
+			"text": " Cubrir nuestros cuerpos, protegerlo del calor, del frío, la decencia."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:24,200",
+				"to": "00:55:29,200"
+			},
+			"offsets": {
+				"from": 3324200,
+				"to": 3329200
+			},
+			"text": " Vestirse bien pero no ostentar, tener buena presencia."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:29,200",
+				"to": "00:55:34,200"
+			},
+			"offsets": {
+				"from": 3329200,
+				"to": 3334200
+			},
+			"text": " O sea, el profeta de Alejiz Salatua Saddam le gustaba vestirse bien, pero no ostentaba nunca."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:34,200",
+				"to": "00:55:39,200"
+			},
+			"offsets": {
+				"from": 3334200,
+				"to": 3339200
+			},
+			"text": " Vestirse bien de acuerdo a cada uno, a la posibilidad de cada uno, que es ostentar."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:39,200",
+				"to": "00:55:45,200"
+			},
+			"offsets": {
+				"from": 3339200,
+				"to": 3345200
+			},
+			"text": " Te pones una cosa así que lo que fuese que sea querida o esas cosas raras."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:45,200",
+				"to": "00:55:51,200"
+			},
+			"offsets": {
+				"from": 3345200,
+				"to": 3351200
+			},
+			"text": " ¿Vestiste de acuerdo de tus posibilidades con dignidad?"
+		},
+		{
+			"timestamps": {
+				"from": "00:55:51,200",
+				"to": "00:55:57,200"
+			},
+			"offsets": {
+				"from": 3351200,
+				"to": 3357200
+			},
+			"text": " Pero volviendo esto, lo que importa en todo esto es si uno no aprende de eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:55:57,200",
+				"to": "00:56:03,200"
+			},
+			"offsets": {
+				"from": 3357200,
+				"to": 3363200
+			},
+			"text": " Es el servicio que te lleva al amor, no servir por servir."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:03,200",
+				"to": "00:56:08,200"
+			},
+			"offsets": {
+				"from": 3363200,
+				"to": 3368200
+			},
+			"text": " Cuando van y dice hay inundación y te ponen un cartel grande, somos los muchachos de no sé dónde."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:08,200",
+				"to": "00:56:13,200"
+			},
+			"offsets": {
+				"from": 3368200,
+				"to": 3373200
+			},
+			"text": " ¿Vamos por eso y qué van a buscar? Van a buscar algún beneficio material."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:13,200",
+				"to": "00:56:18,200"
+			},
+			"offsets": {
+				"from": 3373200,
+				"to": 3378200
+			},
+			"text": " Es decir, lo que fuese que sea."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:18,200",
+				"to": "00:56:23,200"
+			},
+			"offsets": {
+				"from": 3378200,
+				"to": 3383200
+			},
+			"text": " ¿Pero cómo actúa el musulmán, el darbiche?"
+		},
+		{
+			"timestamps": {
+				"from": "00:56:23,200",
+				"to": "00:56:34,200"
+			},
+			"offsets": {
+				"from": 3383200,
+				"to": 3394200
+			},
+			"text": " No busca el gracias, no busca reconocimiento, no busca nada de eso."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:34,200",
+				"to": "00:56:41,200"
+			},
+			"offsets": {
+				"from": 3394200,
+				"to": 3401200
+			},
+			"text": " Buscas complacer al lado. Cuando uno complace al lado crece en amor."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:41,200",
+				"to": "00:56:47,200"
+			},
+			"offsets": {
+				"from": 3401200,
+				"to": 3407200
+			},
+			"text": " Crece en amor, crece en luz."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:47,200",
+				"to": "00:56:51,200"
+			},
+			"offsets": {
+				"from": 3407200,
+				"to": 3411200
+			},
+			"text": " Si no te transformas en un ser oscuro, por más que arreces todo el día."
+		},
+		{
+			"timestamps": {
+				"from": "00:56:51,200",
+				"to": "00:56:55,200"
+			},
+			"offsets": {
+				"from": 3411200,
+				"to": 3415200
+			},
+			"text": " Fíjense la analogía que les di del gato."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:05,200",
+				"to": "00:57:13,200"
+			},
+			"offsets": {
+				"from": 3425200,
+				"to": 3433200
+			},
+			"text": " Entonces lo esencial de este camino es desprenderse, desprenderse de todas esas cuestiones."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:13,200",
+				"to": "00:57:20,200"
+			},
+			"offsets": {
+				"from": 3433200,
+				"to": 3440200
+			},
+			"text": " No son grandes epopeyas de otros tiempos, de dejar todo."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:20,200",
+				"to": "00:57:24,200"
+			},
+			"offsets": {
+				"from": 3440200,
+				"to": 3444200
+			},
+			"text": " Empecemos por lo básico."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:24,200",
+				"to": "00:57:29,200"
+			},
+			"offsets": {
+				"from": 3444200,
+				"to": 3449200
+			},
+			"text": " Te tenés que preguntar si todavía no fui a visitar a Núria, qué es lo que me está pasando."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:29,200",
+				"to": "00:57:36,200"
+			},
+			"offsets": {
+				"from": 3449200,
+				"to": 3456200
+			},
+			"text": " No es porque se lo diga en mi caso. Eso no es el problema."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:36,200",
+				"to": "00:57:40,200"
+			},
+			"offsets": {
+				"from": 3456200,
+				"to": 3460200
+			},
+			"text": " Yo fui muy vosotros."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:40,200",
+				"to": "00:57:46,200"
+			},
+			"offsets": {
+				"from": 3460200,
+				"to": 3466200
+			},
+			"text": " Ese es el Fanafiche."
+		},
+		{
+			"timestamps": {
+				"from": "00:57:46,200",
+				"to": "00:57:52,200"
+			},
+			"offsets": {
+				"from": 3466200,
+				"to": 3472200
+			},
+			"text": " ¿Tenés el PAF?"
+		},
+		{
+			"timestamps": {
+				"from": "00:57:52,200",
+				"to": "00:58:00,200"
+			},
+			"offsets": {
+				"from": 3472200,
+				"to": 3480200
+			},
+			"text": " Con los cambios de polen y demás te vas a hacer mal."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:00,200",
+				"to": "00:58:15,200"
+			},
+			"offsets": {
+				"from": 3480200,
+				"to": 3495200
+			},
+			"text": " No importa que te lo diga. Si lo haces porque te lo digo, sirve de algo."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:15,200",
+				"to": "00:58:22,200"
+			},
+			"offsets": {
+				"from": 3495200,
+				"to": 3502200
+			},
+			"text": " Lo más importante es que te preguntes ¿Por qué estoy haciendo esto?"
+		},
+		{
+			"timestamps": {
+				"from": "00:58:22,200",
+				"to": "00:58:27,200"
+			},
+			"offsets": {
+				"from": 3502200,
+				"to": 3507200
+			},
+			"text": " ¿Cuál es la prueba que nos pone al frente a nosotros?"
+		},
+		{
+			"timestamps": {
+				"from": "00:58:27,200",
+				"to": "00:58:31,200"
+			},
+			"offsets": {
+				"from": 3507200,
+				"to": 3511200
+			},
+			"text": " ¿Cuando alguien se enferma? ¿Cuando alguien está teniendo un problema?"
+		},
+		{
+			"timestamps": {
+				"from": "00:58:31,200",
+				"to": "00:58:34,200"
+			},
+			"offsets": {
+				"from": 3511200,
+				"to": 3514200
+			},
+			"text": " ¿Qué carajo estás haciendo dentro de tus posibilidades?"
+		},
+		{
+			"timestamps": {
+				"from": "00:58:34,200",
+				"to": "00:58:38,200"
+			},
+			"offsets": {
+				"from": 3514200,
+				"to": 3518200
+			},
+			"text": " Eso no significa meterse en vida ajena."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:38,200",
+				"to": "00:58:43,200"
+			},
+			"offsets": {
+				"from": 3518200,
+				"to": 3523200
+			},
+			"text": " Eso significa ocuparse del prójimo."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:43,200",
+				"to": "00:58:46,200"
+			},
+			"offsets": {
+				"from": 3523200,
+				"to": 3526200
+			},
+			"text": " Tratar de ayudar."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:46,200",
+				"to": "00:58:55,200"
+			},
+			"offsets": {
+				"from": 3526200,
+				"to": 3535200
+			},
+			"text": " Tratar de que ese ser sortee esa etapa difícil de su vida."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:55,200",
+				"to": "00:58:58,200"
+			},
+			"offsets": {
+				"from": 3535200,
+				"to": 3538200
+			},
+			"text": " Eso es lo fundamental."
+		},
+		{
+			"timestamps": {
+				"from": "00:58:58,200",
+				"to": "00:59:03,200"
+			},
+			"offsets": {
+				"from": 3538200,
+				"to": 3543200
+			},
+			"text": " Crescer de esa forma a través de sus actos sencillos."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:03,200",
+				"to": "00:59:08,200"
+			},
+			"offsets": {
+				"from": 3543200,
+				"to": 3548200
+			},
+			"text": " Entonces ¿Por qué está la frase que muchas veces lo sacan de contexto?"
+		},
+		{
+			"timestamps": {
+				"from": "00:59:08,200",
+				"to": "00:59:15,200"
+			},
+			"offsets": {
+				"from": 3548200,
+				"to": 3555200
+			},
+			"text": " Antes el sufismo era un nombre sin realidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:15,200",
+				"to": "00:59:19,200"
+			},
+			"offsets": {
+				"from": 3555200,
+				"to": 3559200
+			},
+			"text": " Una realidad sin nombre. Hoy es un nombre sin realidad."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:19,200",
+				"to": "00:59:21,200"
+			},
+			"offsets": {
+				"from": 3559200,
+				"to": 3561200
+			},
+			"text": " ¿Qué significa eso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:59:21,200",
+				"to": "00:59:28,200"
+			},
+			"offsets": {
+				"from": 3561200,
+				"to": 3568200
+			},
+			"text": " Si vos decís que practicas el tasauf, la purificación interior y acercarte al lado."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:28,200",
+				"to": "00:59:34,200"
+			},
+			"offsets": {
+				"from": 3568200,
+				"to": 3574200
+			},
+			"text": " Pero no te ocupas por el enfermo. No das, no haces esto, no haces aquello."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:34,200",
+				"to": "00:59:39,200"
+			},
+			"offsets": {
+				"from": 3574200,
+				"to": 3579200
+			},
+			"text": " Y vivís. No tengo, no tengo, no tengo, no tengo, no tengo. No pasa nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:39,200",
+				"to": "00:59:42,200"
+			},
+			"offsets": {
+				"from": 3579200,
+				"to": 3582200
+			},
+			"text": " Ahora estamos haciendo una colecta para la gente que no tiene ni..."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:42,200",
+				"to": "00:59:47,200"
+			},
+			"offsets": {
+				"from": 3582200,
+				"to": 3587200
+			},
+			"text": " Es una bolsa. Leyeron lo que dice. ¿Cuánto te puede alcanzar eso para morfar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:59:47,200",
+				"to": "00:59:52,200"
+			},
+			"offsets": {
+				"from": 3587200,
+				"to": 3592200
+			},
+			"text": " No sé. O sea, hay un paquete de fideos, un arrínaros, yo qué sé,"
+		},
+		{
+			"timestamps": {
+				"from": "00:59:52,200",
+				"to": "00:59:57,200"
+			},
+			"offsets": {
+				"from": 3592200,
+				"to": 3597200
+			},
+			"text": " una lata de sardinas y no sé qué corno más."
+		},
+		{
+			"timestamps": {
+				"from": "00:59:57,200",
+				"to": "01:00:04,200"
+			},
+			"offsets": {
+				"from": 3597200,
+				"to": 3604200
+			},
+			"text": " Y puedo decir, no tengo plata, agarra flaco o flaca. No se trata de la cantidad."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:04,200",
+				"to": "01:00:09,200"
+			},
+			"offsets": {
+				"from": 3604200,
+				"to": 3609200
+			},
+			"text": " No se trata de la cantidad."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:09,200",
+				"to": "01:00:18,200"
+			},
+			"offsets": {
+				"from": 3609200,
+				"to": 3618200
+			},
+			"text": " O sea, 10 pesos, 100 pesos, 1000 pesos, o sea, eso cada uno lo sabe, no sé."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:18,200",
+				"to": "01:00:25,200"
+			},
+			"offsets": {
+				"from": 3618200,
+				"to": 3625200
+			},
+			"text": " Buscamos hacer eso, unos tipos que literalmente se están muriendo de hambre, literalmente."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:25,200",
+				"to": "01:00:29,200"
+			},
+			"offsets": {
+				"from": 3625200,
+				"to": 3629200
+			},
+			"text": " Y está en nuestras posibilidades hacer algo."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:29,200",
+				"to": "01:00:38,200"
+			},
+			"offsets": {
+				"from": 3629200,
+				"to": 3638200
+			},
+			"text": " Sin importar que sean adoradores del cuerno, de no sé qué cosa, o musulmanes, son seres humanos."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:38,200",
+				"to": "01:00:49,200"
+			},
+			"offsets": {
+				"from": 3638200,
+				"to": 3649200
+			},
+			"text": " Que están muriéndose de hambre y muriéndose porque no tienen medicamentos."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:49,200",
+				"to": "01:00:57,200"
+			},
+			"offsets": {
+				"from": 3649200,
+				"to": 3657200
+			},
+			"text": " O sea, cuando no te mueve nada eso adentro tuyo, algo está fallando en todo esto."
+		},
+		{
+			"timestamps": {
+				"from": "01:00:57,200",
+				"to": "01:01:03,200"
+			},
+			"offsets": {
+				"from": 3657200,
+				"to": 3663200
+			},
+			"text": " Entonces, tenés que encontrar ese propósito y ese esfuerzo, ese esfuerzo."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:03,200",
+				"to": "01:01:12,200"
+			},
+			"offsets": {
+				"from": 3663200,
+				"to": 3672200
+			},
+			"text": " Primero va rompiendo de alguna forma las cadenas de nuestro ego."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:12,200",
+				"to": "01:01:19,200"
+			},
+			"offsets": {
+				"from": 3672200,
+				"to": 3679200
+			},
+			"text": " Que lo único que le interesa es el yo, ese propio supervivencia."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:19,200",
+				"to": "01:01:22,200"
+			},
+			"offsets": {
+				"from": 3679200,
+				"to": 3682200
+			},
+			"text": " Yo esto, yo aquello."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:22,200",
+				"to": "01:01:28,200"
+			},
+			"offsets": {
+				"from": 3682200,
+				"to": 3688200
+			},
+			"text": " ¿Por qué venimos a larga y servimos? O sea, ¿cuál es el sentido de venir y poner la mesa?"
+		},
+		{
+			"timestamps": {
+				"from": "01:01:28,200",
+				"to": "01:01:33,200"
+			},
+			"offsets": {
+				"from": 3688200,
+				"to": 3693200
+			},
+			"text": " Tranquilamente lo puede hacer alguien, le decir, bueno, sé, cocinar, pagar, toma."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:33,200",
+				"to": "01:01:38,200"
+			},
+			"offsets": {
+				"from": 3693200,
+				"to": 3698200
+			},
+			"text": " Esto te lo hace mejor que cualquiera cuando hay guita."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:42,200",
+				"to": "01:01:47,200"
+			},
+			"offsets": {
+				"from": 3702200,
+				"to": 3707200
+			},
+			"text": " Aprender la humildad, aprender el servicio, aprender a dar."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:47,200",
+				"to": "01:01:52,200"
+			},
+			"offsets": {
+				"from": 3707200,
+				"to": 3712200
+			},
+			"text": " Hoy no puedo. ¿Por qué bueno, organizate para que puedas?"
+		},
+		{
+			"timestamps": {
+				"from": "01:01:52,200",
+				"to": "01:01:57,200"
+			},
+			"offsets": {
+				"from": 3712200,
+				"to": 3717200
+			},
+			"text": " No te das cuenta que estás cocinando para mucha gente."
+		},
+		{
+			"timestamps": {
+				"from": "01:01:57,200",
+				"to": "01:02:07,200"
+			},
+			"offsets": {
+				"from": 3717200,
+				"to": 3727200
+			},
+			"text": " No te das cuenta que estás sirviendo para saciar aquel que tiene hambre y tiene sed."
+		},
+		{
+			"timestamps": {
+				"from": "01:02:07,200",
+				"to": "01:02:13,200"
+			},
+			"offsets": {
+				"from": 3727200,
+				"to": 3733200
+			},
+			"text": " Es algo maravilloso. ¿No te das cuenta que puedes estar limpiando para que otra persona pueda venir"
+		},
+		{
+			"timestamps": {
+				"from": "01:02:13,200",
+				"to": "01:02:21,200"
+			},
+			"offsets": {
+				"from": 3733200,
+				"to": 3741200
+			},
+			"text": " y estar en un lugar mejor para poder compartir y estar juntos y recordar al lado?"
+		},
+		{
+			"timestamps": {
+				"from": "01:02:21,200",
+				"to": "01:02:27,200"
+			},
+			"offsets": {
+				"from": 3741200,
+				"to": 3747200
+			},
+			"text": " Son cuestiones maravillosas que cada uno de nosotros podemos hacer."
+		},
+		{
+			"timestamps": {
+				"from": "01:02:27,200",
+				"to": "01:02:31,200"
+			},
+			"offsets": {
+				"from": 3747200,
+				"to": 3751200
+			},
+			"text": " Pero ese aprendizaje, esa escuela, es transitivo."
+		},
+		{
+			"timestamps": {
+				"from": "01:02:31,200",
+				"to": "01:02:38,200"
+			},
+			"offsets": {
+				"from": 3751200,
+				"to": 3758200
+			},
+			"text": " Es decir, a partir de eso vos aprendes a aplicar eso en cada situación de tu vida."
+		},
+		{
+			"timestamps": {
+				"from": "01:02:38,200",
+				"to": "01:02:47,200"
+			},
+			"offsets": {
+				"from": 3758200,
+				"to": 3767200
+			},
+			"text": " En cada situación de tu vida."
+		},
+		{
+			"timestamps": {
+				"from": "01:02:47,200",
+				"to": "01:02:53,200"
+			},
+			"offsets": {
+				"from": 3767200,
+				"to": 3773200
+			},
+			"text": " Es decir, primero ese esfuerzo por romper el ego, por romper esas cadenas"
+		},
+		{
+			"timestamps": {
+				"from": "01:02:53,200",
+				"to": "01:03:04,200"
+			},
+			"offsets": {
+				"from": 3773200,
+				"to": 3784200
+			},
+			"text": " que constantemente llevan de alguna forma adorarnos a nosotros mismos."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:04,200",
+				"to": "01:03:09,200"
+			},
+			"offsets": {
+				"from": 3784200,
+				"to": 3789200
+			},
+			"text": " A ponernos en el lugar. Yo no tengo tiempo, soy el mejor, soy esto, soy aquello"
+		},
+		{
+			"timestamps": {
+				"from": "01:03:09,200",
+				"to": "01:03:18,200"
+			},
+			"offsets": {
+				"from": 3789200,
+				"to": 3798200
+			},
+			"text": " que mis hijos, que mi trabajo, que mi esto, que mi aquello, que la cargue, que esto."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:18,200",
+				"to": "01:03:23,200"
+			},
+			"offsets": {
+				"from": 3798200,
+				"to": 3803200
+			},
+			"text": " Que se entrega."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:23,200",
+				"to": "01:03:31,200"
+			},
+			"offsets": {
+				"from": 3803200,
+				"to": 3811200
+			},
+			"text": " Si querés acercarte a Dios, practicar el servicio, la humildad y la entrega a la creación"
+		},
+		{
+			"timestamps": {
+				"from": "01:03:31,200",
+				"to": "01:03:34,200"
+			},
+			"offsets": {
+				"from": 3811200,
+				"to": 3814200
+			},
+			"text": " va a cambiar todo."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:34,200",
+				"to": "01:03:37,200"
+			},
+			"offsets": {
+				"from": 3814200,
+				"to": 3817200
+			},
+			"text": " Ahora, una pregunta."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:37,200",
+				"to": "01:03:44,200"
+			},
+			"offsets": {
+				"from": 3817200,
+				"to": 3824200
+			},
+			"text": " Cuando alguien le da, hace un acto de dar a otro ser."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:44,200",
+				"to": "01:03:49,200"
+			},
+			"offsets": {
+				"from": 3824200,
+				"to": 3829200
+			},
+			"text": " ¿Qué es lo que sentimos?"
+		},
+		{
+			"timestamps": {
+				"from": "01:03:49,200",
+				"to": "01:03:55,200"
+			},
+			"offsets": {
+				"from": 3829200,
+				"to": 3835200
+			},
+			"text": " ¿Qué sienten?"
+		},
+		{
+			"timestamps": {
+				"from": "01:03:55,200",
+				"to": "01:03:59,200"
+			},
+			"offsets": {
+				"from": 3835200,
+				"to": 3839200
+			},
+			"text": " Bueno."
+		},
+		{
+			"timestamps": {
+				"from": "01:03:59,200",
+				"to": "01:04:06,200"
+			},
+			"offsets": {
+				"from": 3839200,
+				"to": 3846200
+			},
+			"text": " ¿Por qué uno siente eso?"
+		},
+		{
+			"timestamps": {
+				"from": "01:04:06,200",
+				"to": "01:04:13,200"
+			},
+			"offsets": {
+				"from": 3846200,
+				"to": 3853200
+			},
+			"text": " No, no. ¿Por qué uno siente eso? Porque está haciendo algo bueno"
+		},
+		{
+			"timestamps": {
+				"from": "01:04:13,200",
+				"to": "01:04:17,200"
+			},
+			"offsets": {
+				"from": 3853200,
+				"to": 3857200
+			},
+			"text": " para alguien que está pasando."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:17,200",
+				"to": "01:04:26,200"
+			},
+			"offsets": {
+				"from": 3857200,
+				"to": 3866200
+			},
+			"text": " Entonces, ¿por qué no llevamos eso como una práctica constante de servicio?"
+		},
+		{
+			"timestamps": {
+				"from": "01:04:26,200",
+				"to": "01:04:28,200"
+			},
+			"offsets": {
+				"from": 3866200,
+				"to": 3868200
+			},
+			"text": " Cuando uno tiene ese propósito."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:28,200",
+				"to": "01:04:31,200"
+			},
+			"offsets": {
+				"from": 3868200,
+				"to": 3871200
+			},
+			"text": " Ahora, el propósito personal de cada uno es distinto."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:31,200",
+				"to": "01:04:34,200"
+			},
+			"offsets": {
+				"from": 3871200,
+				"to": 3874200
+			},
+			"text": " Están los propósitos generales y los propósitos particulares."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:34,200",
+				"to": "01:04:41,200"
+			},
+			"offsets": {
+				"from": 3874200,
+				"to": 3881200
+			},
+			"text": " Entonces vos te des que darte cuenta cuál es tu vocación en esta vida."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:41,200",
+				"to": "01:04:48,200"
+			},
+			"offsets": {
+				"from": 3881200,
+				"to": 3888200
+			},
+			"text": " A cada uno de nosotros, Dios nos creó con alguna habilidad para algo."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:48,200",
+				"to": "01:04:53,200"
+			},
+			"offsets": {
+				"from": 3888200,
+				"to": 3893200
+			},
+			"text": " En lo que en mi caso soy bueno, él no lo será y en lo que él es bueno, en mi caso no soy."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:53,200",
+				"to": "01:04:55,200"
+			},
+			"offsets": {
+				"from": 3893200,
+				"to": 3895200
+			},
+			"text": " Cada uno nos dio un regalo."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:55,200",
+				"to": "01:04:57,200"
+			},
+			"offsets": {
+				"from": 3895200,
+				"to": 3897200
+			},
+			"text": " Tenemos que encontrar ese regalo."
+		},
+		{
+			"timestamps": {
+				"from": "01:04:57,200",
+				"to": "01:05:03,200"
+			},
+			"offsets": {
+				"from": 3897200,
+				"to": 3903200
+			},
+			"text": " Y ese regalo ponerlo al servicio del creador."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:03,200",
+				"to": "01:05:17,200"
+			},
+			"offsets": {
+				"from": 3903200,
+				"to": 3917200
+			},
+			"text": " Ese regalo al servicio del creador sirviendo la creación con esa habilidad que me dio."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:17,200",
+				"to": "01:05:19,200"
+			},
+			"offsets": {
+				"from": 3917200,
+				"to": 3919200
+			},
+			"text": " Eso es fundamental."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:19,200",
+				"to": "01:05:25,200"
+			},
+			"offsets": {
+				"from": 3919200,
+				"to": 3925200
+			},
+			"text": " Entonces, cuando uno dice que era una realidad sin nombre,"
+		},
+		{
+			"timestamps": {
+				"from": "01:05:25,200",
+				"to": "01:05:33,200"
+			},
+			"offsets": {
+				"from": 3925200,
+				"to": 3933200
+			},
+			"text": " se practica el amor, se practica la caridad, la humildad, el servicio,"
+		},
+		{
+			"timestamps": {
+				"from": "01:05:33,200",
+				"to": "01:05:40,200"
+			},
+			"offsets": {
+				"from": 3933200,
+				"to": 3940200
+			},
+			"text": " la realidad de la comunidad, de estar, de dar desinteresadamente."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:40,200",
+				"to": "01:05:45,200"
+			},
+			"offsets": {
+				"from": 3940200,
+				"to": 3945200
+			},
+			"text": " ¿Qué es lo que pasa cuando tiene un nombre en una realidad?"
+		},
+		{
+			"timestamps": {
+				"from": "01:05:45,200",
+				"to": "01:05:48,200"
+			},
+			"offsets": {
+				"from": 3945200,
+				"to": 3948200
+			},
+			"text": " Es que no practicamos eso."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:48,200",
+				"to": "01:05:51,200"
+			},
+			"offsets": {
+				"from": 3948200,
+				"to": 3951200
+			},
+			"text": " Tenemos a alguien que está enfermo y nos da lo mismo."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:51,200",
+				"to": "01:05:55,200"
+			},
+			"offsets": {
+				"from": 3951200,
+				"to": 3955200
+			},
+			"text": " Tenemos a alguien que fallece y falleció."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:55,200",
+				"to": "01:05:58,200"
+			},
+			"offsets": {
+				"from": 3955200,
+				"to": 3958200
+			},
+			"text": " Bueno, hay que hacer duda ciflaca o hacer duda."
+		},
+		{
+			"timestamps": {
+				"from": "01:05:58,200",
+				"to": "01:06:00,200"
+			},
+			"offsets": {
+				"from": 3958200,
+				"to": 3960200
+			},
+			"text": " Querido, querida, hacer duda."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:00,200",
+				"to": "01:06:03,200"
+			},
+			"offsets": {
+				"from": 3960200,
+				"to": 3963200
+			},
+			"text": " Pero anda y visita al enfermo."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:03,200",
+				"to": "01:06:10,200"
+			},
+			"offsets": {
+				"from": 3963200,
+				"to": 3970200
+			},
+			"text": " Anda y dale algo que necesita alguien que tiene una necesidad dentro de tus posibilidades."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:10,200",
+				"to": "01:06:16,200"
+			},
+			"offsets": {
+				"from": 3970200,
+				"to": 3976200
+			},
+			"text": " Dúa, duda, duda, pero hace algo, maestro."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:16,200",
+				"to": "01:06:25,200"
+			},
+			"offsets": {
+				"from": 3976200,
+				"to": 3985200
+			},
+			"text": " El duá uno le pide al la sí, pero tiene que actuar conforme a eso."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:25,200",
+				"to": "01:06:29,200"
+			},
+			"offsets": {
+				"from": 3985200,
+				"to": 3989200
+			},
+			"text": " Conforme uno va haciendo esos cambios en su vida."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:29,200",
+				"to": "01:06:31,200"
+			},
+			"offsets": {
+				"from": 3989200,
+				"to": 3991200
+			},
+			"text": " ¿Para qué tiene que hacer esos cambios?"
+		},
+		{
+			"timestamps": {
+				"from": "01:06:31,200",
+				"to": "01:06:33,200"
+			},
+			"offsets": {
+				"from": 3991200,
+				"to": 3993200
+			},
+			"text": " O sea, ¿qué es la purificación interior?"
+		},
+		{
+			"timestamps": {
+				"from": "01:06:33,200",
+				"to": "01:06:38,200"
+			},
+			"offsets": {
+				"from": 3993200,
+				"to": 3998200
+			},
+			"text": " No es un simple acto estoico del estoicismo."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:38,200",
+				"to": "01:06:50,200"
+			},
+			"offsets": {
+				"from": 3998200,
+				"to": 4010200
+			},
+			"text": " Es decir, y lo que propone esa ética y demás cuestiones,"
+		},
+		{
+			"timestamps": {
+				"from": "01:06:50,200",
+				"to": "01:06:57,200"
+			},
+			"offsets": {
+				"from": 4010200,
+				"to": 4017200
+			},
+			"text": " lo mismo que cada una de estos tipos de filosofías."
+		},
+		{
+			"timestamps": {
+				"from": "01:06:57,200",
+				"to": "01:07:06,200"
+			},
+			"offsets": {
+				"from": 4017200,
+				"to": 4026200
+			},
+			"text": " Ese purificar al servir, al servicio, al dar, al estar, al estar ocupado por el prójimo,"
+		},
+		{
+			"timestamps": {
+				"from": "01:07:06,200",
+				"to": "01:07:16,200"
+			},
+			"offsets": {
+				"from": 4026200,
+				"to": 4036200
+			},
+			"text": " por la creación, con el único meta de complacer al creador y alcanzar esa luz y ese amor divino"
+		},
+		{
+			"timestamps": {
+				"from": "01:07:16,200",
+				"to": "01:07:24,200"
+			},
+			"offsets": {
+				"from": 4036200,
+				"to": 4044200
+			},
+			"text": " que nos transforma en seres luminosos y de amor, es el todo."
+		},
+		{
+			"timestamps": {
+				"from": "01:07:24,200",
+				"to": "01:07:31,200"
+			},
+			"offsets": {
+				"from": 4044200,
+				"to": 4051200
+			},
+			"text": " Es lo que nos acerca a nuestra real esencia."
+		},
+		{
+			"timestamps": {
+				"from": "01:07:31,200",
+				"to": "01:07:50,200"
+			},
+			"offsets": {
+				"from": 4051200,
+				"to": 4070200
+			},
+			"text": " Es lo que nos distingue, es lo que nos eleva, es lo que nos hace verdaderos, jalifas de Allah."
+		},
+		{
+			"timestamps": {
+				"from": "01:07:50,200",
+				"to": "01:07:59,200"
+			},
+			"offsets": {
+				"from": 4070200,
+				"to": 4079200
+			},
+			"text": " Entonces, tratemos de empezar a entender que cuando tenemos que controlar un aspecto de nuestra vida,"
+		},
+		{
+			"timestamps": {
+				"from": "01:07:59,200",
+				"to": "01:08:10,200"
+			},
+			"offsets": {
+				"from": 4079200,
+				"to": 4090200
+			},
+			"text": " la ira, la soberbia, la arrogancia, las esperanzas desmedidas, la vagancia,"
+		},
+		{
+			"timestamps": {
+				"from": "01:08:10,200",
+				"to": "01:08:18,200"
+			},
+			"offsets": {
+				"from": 4090200,
+				"to": 4098200
+			},
+			"text": " cada una de esas cuestiones es para hacernos receptivos a esas realidades,"
+		},
+		{
+			"timestamps": {
+				"from": "01:08:18,200",
+				"to": "01:08:27,200"
+			},
+			"offsets": {
+				"from": 4098200,
+				"to": 4107200
+			},
+			"text": " para buscar a través de esa realidad llenar nuestro corazón con ese amor divino."
+		},
+		{
+			"timestamps": {
+				"from": "01:08:27,200",
+				"to": "01:08:34,200"
+			},
+			"offsets": {
+				"from": 4107200,
+				"to": 4114200
+			},
+			"text": " Cuando llenamos nuestro corazón de ese amor divino, nos transformamos en esos seres de luz."
+		},
+		{
+			"timestamps": {
+				"from": "01:08:34,200",
+				"to": "01:08:42,200"
+			},
+			"offsets": {
+				"from": 4114200,
+				"to": 4122200
+			},
+			"text": " Es lo que dice Allah, cuando Allah ama a alguien, le dice a Gabriel,"
+		},
+		{
+			"timestamps": {
+				"from": "01:08:42,200",
+				"to": "01:08:48,200"
+			},
+			"offsets": {
+				"from": 4122200,
+				"to": 4128200
+			},
+			"text": " \"baja, ya que todos amen a esa persona\"."
+		},
+		{
+			"timestamps": {
+				"from": "01:08:48,200",
+				"to": "01:09:00,200"
+			},
+			"offsets": {
+				"from": 4128200,
+				"to": 4140200
+			},
+			"text": " Y tú lo ves y le dices, que hermosa persona, hay algo en ese ser el cual me lleva a estar cerca,"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:00,200",
+				"to": "01:09:08,200"
+			},
+			"offsets": {
+				"from": 4140200,
+				"to": 4148200
+			},
+			"text": " hay algo distinto, transformate en eso, eso es para todos y cada uno de nosotros,"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:08,200",
+				"to": "01:09:14,200"
+			},
+			"offsets": {
+				"from": 4148200,
+				"to": 4154200
+			},
+			"text": " buscar esa transformación, entender ese propósito en nuestra vida,"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:14,200",
+				"to": "01:09:20,200"
+			},
+			"offsets": {
+				"from": 4154200,
+				"to": 4160200
+			},
+			"text": " el esfuerzo hacia qué, que traciende simplemente lo ético y lo moral"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:20,200",
+				"to": "01:09:29,200"
+			},
+			"offsets": {
+				"from": 4160200,
+				"to": 4169200
+			},
+			"text": " y su dimensión más profunda es el amor, cuando no existe eso, no existe nada."
+		},
+		{
+			"timestamps": {
+				"from": "01:09:29,200",
+				"to": "01:09:40,200"
+			},
+			"offsets": {
+				"from": 4169200,
+				"to": 4180200
+			},
+			"text": " Que Allah nos haga a todos seres los cuales están constantemente buscando ese acercamiento"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:40,200",
+				"to": "01:09:46,200"
+			},
+			"offsets": {
+				"from": 4180200,
+				"to": 4186200
+			},
+			"text": " a través del servicio, a través de la adoración que se transforma en nuestro interior"
+		},
+		{
+			"timestamps": {
+				"from": "01:09:46,200",
+				"to": "01:09:52,200"
+			},
+			"offsets": {
+				"from": 4186200,
+				"to": 4192200
+			},
+			"text": " y nos acerca a ese núcleo del amor divino."
+		},
+		{
+			"timestamps": {
+				"from": "01:09:52,200",
+				"to": "01:09:53,200"
+			},
+			"offsets": {
+				"from": 4192200,
+				"to": 4193200
+			},
+			"text": " Janderla."
+		}
+	]
+}

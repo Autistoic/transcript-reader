@@ -7,6 +7,7 @@ import { findOverlappingSegments, isValidRange, parseEditorTime } from './utils/
 import { loadTranscript, transcriptFiles } from './utils/transcripts'
 
 type Panel = 'annotations' | 'editor' | 'transcript'
+type TranscriptView = 'none' | 'all' | 'range'
 const emptyDraft: Draft = { title: '', startTime: '00:00:00', endTime: '00:00:00', interpretation: '' }
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
   const [activeId, setActiveId] = useState<string | null>(null)
   const [draft, setDraft] = useState<Draft>(emptyDraft)
   const [matches, setMatches] = useState<Transcript['segments']>([])
+  const [transcriptView, setTranscriptView] = useState<TranscriptView>('none')
   const [searchedKey, setSearchedKey] = useState('')
   const [searchText, setSearchText] = useState('')
   const [selectorOpen, setSelectorOpen] = useState(false)
@@ -37,7 +39,7 @@ function App() {
   const visibleFiles = useMemo(() => transcriptFiles.filter((item) => item.filename.toLowerCase().includes(searchText.trim().toLowerCase())), [searchText])
   const currentKey = `${draft.startTime}|${draft.endTime}`
   const isOutdated = searchedKey !== '' && searchedKey !== currentKey
-  const hasSearch = searchedKey === currentKey && !isOutdated
+  const hasSearch = transcriptView === 'range' && searchedKey === currentKey && !isOutdated
   const dirty = activeId
     ? annotations.some((a) => a.id === activeId && (a.title !== draft.title || a.startTime !== draft.startTime || a.endTime !== draft.endTime || a.interpretation !== draft.interpretation))
     : Boolean(draft.title || draft.startTime || draft.endTime || draft.interpretation)
@@ -85,17 +87,18 @@ function App() {
   }
 
   function clearEditor() {
-    setActiveId(null); setDraft(emptyDraft); setMatches([]); setSearchedKey(''); setError(''); setNotice('');
+    setActiveId(null); setDraft(emptyDraft); setMatches(transcript?.segments ?? []); setTranscriptView(transcript ? 'all' : 'none'); setSearchedKey(''); setError(''); setNotice('');
   }
 
   async function chooseTranscript(path: string, filename: string) {
     if (path === selectedPath || loading) { setSelectorOpen(false); return }
     if (annotations.length && !window.confirm('Switch transcripts? This transcript’s annotations will stay separate and be available when you return.')) return
     setLoading(true); setError(''); setNotice(''); setSelectorOpen(false); setSearchText('')
-    setTranscript(null); setSelectedPath(''); setAnnotations([]); clearEditor()
+    clearEditor(); setTranscript(null); setSelectedPath(''); setAnnotations([]); setMatches([]); setTranscriptView('none')
     try {
       const loaded = await loadTranscript(path, filename)
       setTranscript(loaded); setSelectedPath(path)
+      setMatches(loaded.segments); setTranscriptView('all')
       const saved = readAnnotations(filename)
       const restored = annotationCache[filename] ?? saved.annotations
       setAnnotations(restored)
@@ -117,6 +120,7 @@ function App() {
     const end = parseEditorTime(draft.endTime)!
     setMatches(findOverlappingSegments(transcript.segments, start, end))
     setSearchedKey(currentKey)
+    setTranscriptView('range')
     setPanel('transcript')
   }
 
@@ -142,6 +146,7 @@ function App() {
     const start = parseEditorTime(annotation.startTime)!, end = parseEditorTime(annotation.endTime)!
     setMatches(transcript ? findOverlappingSegments(transcript.segments, start, end) : [])
     setSearchedKey(`${annotation.startTime}|${annotation.endTime}`)
+    setTranscriptView('range')
     setError(''); setNotice(''); setPanel('editor')
   }
 
@@ -212,16 +217,16 @@ function App() {
         <div className="column-resizer" role="separator" aria-orientation="vertical" aria-label="Resize annotation and transcript columns" aria-valuemin={32} aria-valuemax={68} aria-valuenow={Math.round(annotationShare * 100)} aria-valuetext={`Annotation column ${Math.round(annotationShare * 100)} percent`} tabIndex={0} onPointerDown={beginColumnResize} onPointerMove={moveColumnResize} onPointerUp={endColumnResize} onPointerCancel={endColumnResize} onKeyDown={resizeWithKeyboard}><GripVertical size={17} aria-hidden="true" /></div>
 
         <section ref={transcriptColumn} className={`panel transcript-panel ${panel === 'transcript' ? 'mobile-visible' : ''}`}>
-          <div className="transcript-header"><div><span className="step-label">04 / CONTEXT</span><h2>Matching transcript</h2></div>{hasSearch && <div className="transcript-actions"><button className="timestamp-toggle" onClick={() => setShowTimestamps((visible) => !visible)} aria-pressed={showTimestamps}>{showTimestamps ? 'Hide timestamps' : 'Show timestamps'}</button><button className="copy-button" onClick={() => void copyExcerpt()} disabled={!matches.length}><Clipboard size={14} /> Copy excerpt</button></div>}</div>
-          {hasSearch ? <div className="results-summary"><span className="result-count">{matches.length} <span>{matches.length === 1 ? 'segment' : 'segments'}</span></span><span className="summary-divider" /><span className="range-label">{draft.startTime} <ChevronRight size={12} /> {draft.endTime}</span></div> : <div className="results-summary awaiting"><span className="summary-dot" />{isOutdated ? 'Time range changed' : 'Awaiting a time range'}<span className="summary-divider" /><span className="range-label">Search to see context</span></div>}
+          <div className="transcript-header"><div><span className="step-label">04 / CONTEXT</span><h2>Matching transcript</h2></div>{transcriptView !== 'none' && <div className="transcript-actions"><button className="timestamp-toggle" onClick={() => setShowTimestamps((visible) => !visible)} aria-pressed={showTimestamps}>{showTimestamps ? 'Hide timestamps' : 'Show timestamps'}</button><button className="copy-button" onClick={() => void copyExcerpt()} disabled={!matches.length}><Clipboard size={14} /> {transcriptView === 'all' ? 'Copy transcript' : 'Copy excerpt'}</button></div>}</div>
+          {hasSearch ? <div className="results-summary"><span className="result-count">{matches.length} <span>{matches.length === 1 ? 'segment' : 'segments'}</span></span><span className="summary-divider" /><span className="range-label">{draft.startTime} <ChevronRight size={12} /> {draft.endTime}</span></div> : transcriptView === 'all' ? <div className="results-summary"><span className="result-count">{matches.length} <span>{matches.length === 1 ? 'segment' : 'segments'}</span></span><span className="summary-divider" /><span className="range-label">Full transcript</span></div> : <div className="results-summary awaiting"><span className="summary-dot" />{isOutdated ? 'Time range changed' : 'Awaiting a time range'}<span className="summary-divider" /><span className="range-label">Search to see context</span></div>}
           <div className="transcript-scroll">
             {!transcript ? <div className="transcript-empty"><div className="empty-icon large"><FileText size={19} /></div><strong>Select a transcript</strong><p>Choose a project transcript to begin reviewing and annotating its spoken moments.</p><button className="button secondary" onClick={() => { setPanel('annotations'); setSelectorOpen(true) }}>Browse transcripts <ChevronRight size={14} /></button></div>
-              : !hasSearch ? <div className="transcript-empty"><div className={`empty-icon large ${isOutdated ? 'amber-icon' : ''}`}>{isOutdated ? <AlertCircle size={18} /> : <Search size={18} />}</div><strong>{isOutdated ? 'Results need a refresh' : 'Find a moment in the transcript'}</strong><p>{isOutdated ? 'Your time range changed. Find the transcript again to update the excerpt before saving.' : 'Enter a start and end time in the editor, then find the matching segments here.'}</p><button className="button find-button" onClick={findTranscript}><Search size={14} /> Find transcript</button></div>
-              : matches.length === 0 ? <div className="transcript-empty"><div className="empty-icon large"><Search size={18} /></div><strong>No segments in this range</strong><p>There are no transcript segments overlapping {draft.startTime} to {draft.endTime}. Try adjusting the time range.</p></div>
+              : transcriptView === 'none' || (transcriptView === 'range' && !hasSearch) ? <div className="transcript-empty"><div className={`empty-icon large ${isOutdated ? 'amber-icon' : ''}`}>{isOutdated ? <AlertCircle size={18} /> : <Search size={18} />}</div><strong>{isOutdated ? 'Results need a refresh' : 'Find a moment in the transcript'}</strong><p>{isOutdated ? 'Your time range changed. Find the transcript again to update the excerpt before saving.' : 'Enter a start and end time in the editor, then find the matching segments here.'}</p><button className="button find-button" onClick={findTranscript}><Search size={14} /> Find transcript</button></div>
+              : matches.length === 0 ? <div className="transcript-empty"><div className="empty-icon large"><Search size={18} /></div><strong>{transcriptView === 'all' ? 'No transcript segments' : 'No segments in this range'}</strong><p>{transcriptView === 'all' ? 'This transcript has no segments with valid timing.' : `There are no transcript segments overlapping ${draft.startTime} to ${draft.endTime}. Try adjusting the time range.`}</p></div>
               : showTimestamps ? <div className="segment-list">{matches.map((segment) => <article className="segment" key={segment.sourceIndex}><div className="segment-time"><span className="play-marker">▸</span>{segment.startLabel}<span className="time-separator">—</span>{segment.endLabel}</div><p>{segment.text}</p></article>)}</div>
               : <p className="transcript-prose">{matches.map((segment) => segment.text).join(' ')}</p>}
           </div>
-          <div className="transcript-footer"><span>{transcript ? transcript.filename : 'NO SOURCE SELECTED'}</span><span>{hasSearch ? `SHOWING ${matches.length} OF ${transcript?.segments.length ?? 0}` : 'ORIGINAL TRANSCRIPT TEXT'}</span></div>
+          <div className="transcript-footer"><span>{transcript ? transcript.filename : 'NO SOURCE SELECTED'}</span><span>{transcriptView === 'all' ? `SHOWING ALL ${transcript?.segments.length ?? 0} SEGMENTS` : hasSearch ? `SHOWING ${matches.length} OF ${transcript?.segments.length ?? 0}` : 'ORIGINAL TRANSCRIPT TEXT'}</span></div>
         </section>
       </section>
       <footer className="page-footer"><span>FIELDNOTES <span className="footer-dot">●</span> TRANSCRIPT TOOLS</span><span>Built for careful listening</span></footer>
